@@ -1,0 +1,15 @@
+caption: 티들리위키
+created: 20131109105400007
+ko-title: 티들리위키 배포판
+modified: 20160604165158586
+tags: Releases
+title: TiddlyWiki Releases
+type: text/vnd.tiddlywiki
+
+여기에 [[티들리위키5|TiddlyWiki]]의 최근 배포판의 자세한 사항이 있습니다. 어떻게 배포판의 이름이 지어지는지에 대한 자세한 사항은 [[티들리위키5 버전 짓기|TiddlyWiki5 Versioning]]를 보세요.
+
+([[베타배포판|BetaReleases]]과 [[알파배포판|AlphaReleases]]은 별도로 나열합니다).
+
+<$list filter="[tag[ReleaseNotes]!sort[created]limit[1]]">
+  <$macrocall $name="tabs" tabsList="[tag[ReleaseNotes]!sort[created]]" default={{!!title}} class="tc-vertical" template="ReleaseTemplate" />
+</$list>

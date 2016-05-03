@@ -1,0 +1,10 @@
+caption: Chrome
+created: 20140811165935523
+ko-title: 시작하기 - Chrome
+modified: 20160516115003524
+title: GettingStarted - Chrome
+type: text/vnd.tiddlywiki
+
+Google Chrome에서의 [[티들리위키|TiddlyWiki]]는 HTML5와 호환되는 폴백 세이버 모듈을 사용해서만 저장할 수 있습니다.
+
+{{Saving with the HTML5 fallback saver}}

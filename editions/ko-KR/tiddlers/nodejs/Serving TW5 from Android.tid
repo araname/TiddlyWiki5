@@ -1,0 +1,14 @@
+created: 20160601174902883
+ko-title: Android에서 TW5 서버 운영
+modified: 20160601174917618
+tags: [[TiddlyWiki on Node.js]]
+title: Serving TW5 from Android
+type: text/vnd.tiddlywiki
+
+[[Termux|https://termux.com/]]는 Linux 시스템과 터미널을 조합한 오픈 소스 Android 애플리케이션입니다.
+
+여러분의 Android 시스템에 //Termux//를 열고 나면, 명령 줄로부터 [[Node.js향 티들리위키|TiddlyWiki on Node.js]]를 [[설치|Installing TiddlyWiki on Node.js]]하고 [[실행|Using TiddlyWiki on Node.js]]하는 것은 간단합니다.
+
+그러고 나서부터, //Termux//를 닫지 않은 상태에서, 예상되는 주소와 포트를 가리켜 좋아하는 웹 브라우저에서 여러분의 위키에 언제든지 접속할 수 있습니다.
+
+> __기여자로부터 참고__: //Termux//에서, //git//, //emacs// 또는 //vi// 또한 설치하여, 개별 티들러 파일을 편집하고 유지 관리할 수 있습니다. 또한 아마도 [[해커의 키보드|https://github.com/klausw/hackerskeyboard/]] 애플리케이션 또는 Bluetooth 바깥 장치와 같은, Android에 보다 강력한 키보드를 장착하는 것이 필요할 수 있습니다.

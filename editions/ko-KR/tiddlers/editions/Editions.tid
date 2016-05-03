@@ -1,0 +1,17 @@
+created: 20160504010700303
+ko-title: 에디션
+list: [[Empty Edition]]
+modified: 20160517085947593
+tags: TableOfContents
+title: Editions
+type: text/vnd.tiddlywiki
+
+[[티들리위키|TiddlyWiki]]에는 특정 목적을 위해 튜닝된 여러 별개의 에디션이 분포합니다.
+
+에디션은 [[티들리위키|TiddlyWiki]] 코어 구성 요소와 함께 여러분이 가능한 빨리 실행할 수 있도록 하는 플러그인, 설명문서와 예제 내용으로 구성되어 있습니다.
+
+특정한 애플리케이션을 위한 고유한 해결책을 위해, 이러한 에디션의 구성 요소를 섞고 맞춰볼 수 있습니다.
+
+<<list-links "[tag[Editions]]">>
+
+<$macrocall $name=".tip" _="""에디션은 [[티들리위키|TiddlyWiki]]가 실행되는 [[플랫폼|Platforms]] ([[하나의 HTML 파일|Saving]] vs. [[Node.js에 따라|TiddlyWiki on Node.js]]와 같은 예로)에 혼동을 주어서는 안됨을 참고하세요"""/>

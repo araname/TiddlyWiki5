@@ -1,0 +1,23 @@
+created: 20130825161400000
+ko-title: Android에서 저장
+modified: 20160601173447694
+tags: Saving
+title: Saving on Android
+type: text/vnd.tiddlywiki
+
+Android 장치용 AndTidWiki 앱은 네트워크 연결 없이 오프라인으로 작동하는 것을 포함하여, [[티들리위키5|TiddlyWiki5]]를 편집하고 바뀜을 저장할 수 있도록 합니다. [[여기에서 다운로드하세요|https://play.google.com/store/apps/details?id=de.mgsimon.android.andtidwiki&hl=ko]].
+
+사용 지침:
+
+# 다른 웹 브라우저에서 빈 [[티들리위키|TiddlyWiki]]를 [[다운로드|Download]]하세요
+# 다운로드한 파일을 `/sdcard/andtidwiki` 디렉터리로 이동하세요
+#* 그것의 이름을 바꿀 수는 있지만, `.html` 또는 `.htm` 확장자를 유지해야 합니다
+# AndTidWiki를 여세요
+#* ''메뉴''/''new ~TiddlyWiki'' 메뉴 옵션을 사용하지 마세요, 그렇게 하면 AndTidWiki가 [[티들리위키클래식|TiddlyWikiClassic]] 형식의 iTW를 만듭니다
+# 파일의 파일 이름을 터치하여 그것을 여세요
+# 사이드바에서 ''새 티들러'' {{$:/core/images/new-button}} 버튼을 사용해 새 티들러를 만들어보세요. 티들러에 어떤 내용을 입력하고 나서, {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하세요
+#* 위키가 저장될 것이며, 확인 메시지가 창의 위 오른쪽에 나타나야 합니다
+
+''참고:'' {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하지 않는다면 사이드바의 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하여 바뀜을 저장하세요
+
+//AndTidWiki는 [[티들리위키|TiddlyWiki]]와 독립적으로 배포됨을 참고하세요//

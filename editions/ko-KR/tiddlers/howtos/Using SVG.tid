@@ -1,0 +1,56 @@
+created: 20131028132700000
+ko-title: SVG 사용
+modified: 20160618140136821
+tags: Features
+title: Using SVG
+type: text/vnd.tiddlywiki
+
+[[티들리위키5|TiddlyWiki5]]는 두 가지 방법으로 벡터 그래픽을 보여주는 SVG를 사용할 수 있습니다:
+
+* `image/svg+xml` 형식의 티들러는 SVG 그림으로 해석되고, `src` 속성에서 데이터 URI로 포함된 SVG 자체가 포함되는 `<img>` 요소로 보여지고 끼워넣어집니다.
+** SVG 그림의 예제에 대해서는 [[Motovun Jack.svg]]와 [[Tiddler Fishes.svg]]를 보세요
+* [[위키텍스트|WikiText]]는 또한 인라인 SVG 요소를 직접 넣을 수 있습니다. 아래 예제를 보세요.
+
+! SVG 티들러 넣기
+
+SVG 그림 티들러를 일반 끼워넣기 문법을 사용하여 넣을 수 있습니다:
+
+```
+{{Motovun Jack.jpg}}
+```
+
+또한 인라인 SVG 티들러를 포함하는 [[위키텍스트의 입력된 블럭|Typed Blocks in WikiText]]을 사용할 수 있습니다.
+
+그림의 시사점은 그것이 샌드박스되는 `<img>` 요소 안에서 렌더됩니다; 그것은 예를 들어, 부모 문서에서 CSS 스타일을 사용할 수 없습니다. 그림에 끼워넣기와 같은 [[위키텍스트|WikiText]]를 사용할 수도 없습니다.
+
+! SVG 요소 넣기
+
+SVG를 사용하는 다른 방법은 `<svg>` 요소를 직접 넣는 것입니다. 예를 들어:
+
+<svg width="150" height="100">
+  <circle cx="100" cy="50" r="40" stroke="black" stroke-width="2" fill="red" />
+</svg>
+
+인라인 SVG 요소에는 `<?xml version="1.0"?>` 지시문이 필요하지 않음을 참고하세요.
+
+! SVG 그림으로 HTML 또는 [[위키텍스트|WikiText]] 내용 넣기
+
+`<text>` 요소를 사용하여 SVG 그림에 간단한 텍스트 문자열을 넣을 수 있습니다:
+
+<svg width="100px" height="30px" viewBox="0 0 1000 300"><text x="250" y="150" font-family="'Nanum Barun Gothic', 'Malgun Gothic'" font-size="55">안녕</text><rect x="1" y="1" width="998" height="298" fill="none" stroke-width="2" /></svg>
+
+HTML나 [[위키텍스트|WikiText]] 내용은 `<foreignObject>` 요소를 사용하여 인라인 SVG 그림 안에 포함할 수 있습니다. 예를 들어:
+
+<svg width="260px" height="260px"><circle cx="150" cy="150" r="100" fill="blue" stoke="red"/><foreignObject x="70" y="110" width="150" height="180"><body>여기에는 줄 바꿈이 필요하고 [[티들러로의 링크|HelloThere]]가 포함되어 있는 어떤 텍스트가 있습니다.</body></foreignObject></svg>
+
+! SVG 요소 끼워넣기
+
+SVG 요소를 포함할 때 또한 끼워넣기와 같은 [[위키텍스트|WikiText]] 기능을 사용할 수 있습니다. 예를 들어, 여기에는 반지름이 [[$:/SVGExampleRadius]] 티들러의 값으로 설정된 SVG 동그라미가 있습니다:
+
+<svg width="150" height="150"><circle cx="75" cy="75" r={{$:/SVGExampleRadius}} stroke="black" stroke-width="2" fill="green"/></svg>
+
+여기에서 반지름의 값을 편집할 수 있습니다: <$edit-text tiddler="$:/SVGExampleRadius" tag="input"/>
+
+! SVG로 굽은 텍스트 만들기
+
+{{Making curved text with SVG}}

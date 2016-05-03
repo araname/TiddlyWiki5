@@ -1,0 +1,24 @@
+created: 20131221085742684
+ko-title: 티들리폭스로 저장
+modified: 20160731093156856
+tags: Saving
+title: Saving with TiddlyFox
+type: text/vnd.tiddlywiki
+
+[[Android용 티들리폭스|Firefox for Android]]를 사용하고 있다면, [[Android에서 티들리폭스로 저장|Saving with TiddlyFox on Android]]의 지침을 보세요.
+
+# [[Firefox]]가 최신 버전인지 확인하세요
+#* http://getfirefox.com
+# 다음에서 [[티들리폭스|TiddlyFox]] 확장 기능의 최신 배포판을 설치하세요:
+#* https://addons.mozilla.org/ko/firefox/addon/tiddlyfox/
+# [[Firefox]]를 다시 시작하세요
+# 이 버튼을 클릭하여 빈 [[티들리위키|TiddlyWiki]]를 [[다운로드|Download]]하세요:
+#> {{$:/editions/ko-KR/snippets/download-empty-button}}
+# 다운로드한 파일을 찾으세요
+#* 그것의 이름을 바꿀 수는 있지만, `.html` 또는 `.htm` 확장자를 유지해야 합니다
+# 파일을 [[Firefox]]에서 여세요
+# [[티들리폭스|TiddlyFox]]에서 이 파일을 저장하는 것을 활성화할지를 물어보면 ''확인''을 클릭하세요
+# 사이드바에서 ''새 티들러'' {{$:/core/images/new-button}} 버튼을 사용해 새 티들러를 만들어보세요. 티들러에 어떤 내용을 입력하고 나서, {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하세요
+# 사이드바의 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하여 바뀜을 저장하세요
+#* 창의 위 오른쪽에 노란 ''위키를 저장했습니다'' 알림이 보여집니다
+# 바뀜이 올바르게 저장되었는지 확인하려면 브라우저 창을 새로 고치세요

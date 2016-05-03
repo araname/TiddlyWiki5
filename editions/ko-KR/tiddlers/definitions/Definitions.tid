@@ -1,0 +1,11 @@
+color: #7bb95d
+created: 20130825145100000
+ko-title: 정의
+modified: 20160624133350180
+tags: Reference
+title: Definitions
+type: text/vnd.tiddlywiki
+
+여기에는 이 설명문서에 사용되는 기술적인 낱말과 문장의 정의가 있습니다. These are definitions of technical words and phrases used in this documentation. (As distinct from the [[Concepts]] that make up TiddlyWiki itself).
+
+<<list-links "[tag[Definitions]]">>

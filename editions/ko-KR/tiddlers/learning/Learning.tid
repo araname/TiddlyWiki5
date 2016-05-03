@@ -1,0 +1,13 @@
+created: 20140912140047779
+ko-title: 알아보기
+list: Videos [[Introduction to Filters]] [[Sharing a TiddlyWiki on Dropbox]] [[Sharing your tiddlers with others]] [[Copying tiddlers between TiddlyWiki files]] [[Creating SubStories]] [[Editing Tiddlers with Emacs]] [[ImageGallery Example]] [[Making curved text with SVG]] TaskManagementExample [[Adding a Twitter Follow button]] [[Philosophy of Tiddlers]] [[Adopt a Titles Policy]]
+modified: 20160517082228240
+tags: TableOfContents
+title: Learning
+type: text/vnd.tiddlywiki
+
+[[티들리위키|TiddlyWiki]] 사용에 대해 더 알아봅니다:
+
+<<list-links "[tag[Learning]]">>
+
+또한 고급 [[위키텍스트|WikiText]], 매크로, 위젯, 필터 등을 포함하는 완전한 [[참조|Reference]]도 보세요.

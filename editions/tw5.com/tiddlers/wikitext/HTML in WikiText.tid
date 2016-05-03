@@ -26,7 +26,7 @@ Attributes in HTML tags can be specified as a literal, a transclusion or a macro
 <a href={{MyLinkDestination}} rel="noopener noreferrer">link</a>
 ```
 
-Note that the link should have the `rel` attribute set to `noopener noreferrer` to maintain privacy of the URLs of private TiddlyWiki's (eg on Dropbox). See https://mathiasbynens.github.io/rel-noopener/ for more information.
+Note that the link should have the `rel` attribute set to `noopener noreferrer`. `noreferrer` to maintain privacy of the URLs of private TiddlyWiki's (eg on Dropbox). For more information about `noopener`, see https://mathiasbynens.github.io/rel-noopener/.
 
 Here an attribute is specified as a macro invocation:
 

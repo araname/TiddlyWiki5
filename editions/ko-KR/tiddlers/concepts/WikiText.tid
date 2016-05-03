@@ -1,0 +1,14 @@
+created: 20131205155227468
+ko-title: 위키텍스트
+modified: 20160605082414036
+tags: Concepts Reference
+title: WikiText
+type: text/vnd.tiddlywiki
+
+위키텍스트는 텍스트 서식, 하이퍼텍스트와 대화형 기능의 넓은 범위를 치기 위한 간결한 표현법입니다. 방해될 정도의 복잡한 사용자 인터페이스 없이 쓰는 데 초점을 맞추도록 합니다. 사용자에게 친숙하도록 [[마크다운|http://daringfireball.net/projects/markdown/]]으로 설계되나, 링크와 대화형 기능에 초점을 더 맞추도록 설계되어 있습니다.
+
+[[위키텍스트|WikiText]] 소개에 대해서는 [[티들리위키에서의 텍스트 서식|Formatting text in TiddlyWiki]]을 보세요.
+
+다음 [[위키텍스트|WikiText]] 문법의 요소는 코어 안에 내장되어 있습니다:
+
+<<list-links "[tag[WikiText]]">>

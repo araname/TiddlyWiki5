@@ -1,0 +1,27 @@
+caption: 자료
+created: 20140320230543190
+ko-title: 자료
+modified: 20160602173350998
+tags: Community
+title: Resources
+type: text/vnd.tiddlywiki
+
+여기에는 티들리위키 [[공동체|Community]]가 여러분이 티들리위키에서 최상의 도움을 받을 수 있도록 만든 자료로 된 사이트가 있습니다: 플러그인, 매크로 등. GitHub, 트위터를 통해 또는 [[티들리위키 그룹스|Forums]]에 게시하여 새 항목을 제출하세요.
+
+<div class="tc-link-info">
+
+<$list filter='[tag[Resources]!sort[modified]]'>
+
+<div class="tc-link-info-item">
+
+! <$link><$view field="title"/></$link>
+
+<div class="tc-subtitle"><$view field="modified" format="relativedate"/>에 게시됨</div>
+
+<$transclude/>
+
+</div>
+
+</$list>
+
+</div>

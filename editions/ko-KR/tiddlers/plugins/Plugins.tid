@@ -1,0 +1,16 @@
+created: 20140910215514237
+ko-title: 플러그인
+modified: 20160617111638518
+tags: Concepts TableOfContents
+title: Plugins
+type: text/vnd.tiddlywiki
+
+[[티들리위키5|TiddlyWiki5]]의 플러그인은 [[티들리위키|TiddlyWiki]]를 사용자 지정하고 확장하는 선택적인 구성 요소를 배포하는 데 사용됩니다. [[공식 플러그인 라이브러리|Installing a plugin from the plugin library]]나 [[공동체 사이트|Resources]]에서 이들을 설치할 수 있습니다.
+
+{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}
+
+내부적으로, 플러그인은 단위로 설치하거나 복사하거나 삭제할 수 있는 하나의 티들러로 함께 포장되는 티들러 묶음입니다. 플러그인 안의 개별 티들러는 [[섀도우티들러|ShadowTiddlers]]로 나타납니다. 플러그인이 어떻게 내부적으로 구현되는지에 대한 자세한 사항은 [[플러그인메커니즘|PluginMechanism]]을 보세요.
+
+플러그인은 [[자바스크립트|JavaScript]] 모듈, 스타일 시트와 템플릿을 포함할 수 있습니다. 플러그인은 또한 일반 텍스트, 그림이나 다른 어떠한 내용도 배포하는 데 사용할 수 있습니다.
+
+<<list-links "[tag[Plugins]]">>

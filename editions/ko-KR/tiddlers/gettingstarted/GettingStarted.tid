@@ -1,0 +1,36 @@
+created: 20131129090249275
+ko-title: 시작하기
+modified: 20160622115157186
+tags: [[Working with TiddlyWiki]]
+title: GettingStarted
+type: text/vnd.tiddlywiki
+
+\define default-platform()
+GettingStarted - $(browser-name)$
+\end
+[[티들리위키|TiddlyWiki]]가 지원하는 다른 플랫폼과 구성에서 시작하기 위한 간략한 지침입니다. 더 느긋한 소개에 대해서는 [[티들리위키로의 상냥한 안내서|A Gentle Guide to TiddlyWiki]]를 보세요.
+
+<$set name="browser-name" value={{$:/info/browser/name}}>
+<$macrocall $name="tabs" state="$:/state/tabs/platform" tabsList="[prefix[GettingStarted - ]]" default=<<default-platform>> class="tc-vertical"/>
+</$set>
+
+문제 해결:
+
+* 바뀜을 저장하기 위해 브라우저 ''파일''/''저장'' 메뉴 옵션을 사용하지 마십시오 (작동하지 않습니다)
+
+같이 보기:
+
+* [[암호화|Encryption]]는 내용을 비밀번호로 보호하기 위해 [[티들리위키|TiddlyWiki]]의 내장된 암호화를 사용하는 방법을 설명합니다
+* [[티들리스팟에서 저장|Saving on TiddlySpot]], [[티들리위키|TiddlyWiki]]를 온라인으로 사용할 수 있도록 하는 무료 서비스
+* [[티들리데스크톱|TiddlyDesktop]]에서 저장, [[티들리위키|TiddlyWiki]]로 작동하는 사용자 지정 데스크톱 애플리케이션
+* 또한 모든 설명문서를 포함하는 전체 [[티들리위키|TiddlyWiki]]를 다운로드할 수 있습니다:
+
+<<<
+{{$:/snippets/download-wiki-button}}
+
+버튼이 작동하지 않으면 이 링크를 저장하세요:
+
+<a href="http://tiddlywiki.com/languages/ko-KR/index.html" download="index.html" rel="noopener noreferrer">~http://tiddlywiki.com/languages/ko-KR/index.html</a>
+
+브라우저가 다운로드를 시작하기 전에 다운로드를 허용할지를 물어볼 수도 있습니다
+<<<

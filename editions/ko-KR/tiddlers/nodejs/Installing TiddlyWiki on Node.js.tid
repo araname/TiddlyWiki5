@@ -1,0 +1,32 @@
+created: 20131219100608529
+ko-title: Node.js에서 티들리위키 설치
+modified: 20160604171527592
+tags: [[TiddlyWiki on Node.js]]
+title: Installing TiddlyWiki on Node.js
+type: text/vnd.tiddlywiki
+
+# [[Node.js]]를 설치하세요
+#* 좋아하는 패키지 관리자에서: 보통 Debian/Ubuntu Linux 또는 Android용 Termux에서 `apt-get install nodejs`, 또는 Mac에서 `brew install node`
+#* 또는 [[http://nodejs.org]]에서 직접
+# 명령 줄 터미널을 열고 입력하세요:
+#> `npm install -g tiddlywiki`
+#> 오류로 실패하면 관리자로 명령을 다시 실행해야 할 수 있습니다:
+#> `sudo npm install -g tiddlywiki` (Mac/Linux)
+# [[티들리위키|TiddlyWiki]]가 설치되어 있는지 입력하여 확인하세요:
+#> `tiddlywiki --version`
+# 응답으로, [[티들리위키|TiddlyWiki]]가 현재 버전을 보고하는 것을 보아야 합니다 (즉 "<<version>>"; 또한 보고된 다른 디버깅 정보를 볼 수 있습니다)
+# 쳐보세요:
+## `tiddlywiki mynewwiki --init server`로 서버와 관련된 구성 요소를 포함하는 새 위키를 위한 폴더를 만드세요
+## `tiddlywiki mynewwiki --server`로 [[티들리위키|TiddlyWiki]]를 시작하세요
+## 브라우저에서 [[http://127.0.0.1:8080/]]을 방문하세요
+## 티들러를 편집하고 만들어보세요
+# 선택적으로, 오프라인 복사본을 만듭니다:
+#* 사이드바에서 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하세요, ''또는''
+#* `tiddlywiki --build index`
+
+
+`-g` 플래그는 [[티들리위키|TiddlyWiki]]를 전역으로 설치할 수 있게 합니다. 그것이 없으면, [[티들리위키|TiddlyWiki]]는 그것이 설치된 디렉터리에서만 사용할 수 있을 것입니다.
+
+Debian이나 Debian 기반의 Linux를 사용하고 있고 설치되어 있는 node.js 패키지를 통해 `node: command not found` 오류를 받는다면, `nodejs`와 `node` 사이에 심볼릭 링크를 만들 필요가 있을 수 있습니다. 올바르게 링크를 만들기 위해 배포판의 설명문서와 `whereis`를 참조하세요. ~GitHub [[이슈 1434|http://github.com/Jermolene/TiddlyWiki5/issues/1434]]를 보세요
+
+예를 들어 Debian v8.0: `sudo ln -s /usr/bin/nodejs /usr/bin/node`

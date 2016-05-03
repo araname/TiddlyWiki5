@@ -1,0 +1,19 @@
+created: 20131211220000000
+ko-title: 티들리IE로 저장
+modified: 20160731093417032
+tags: [[Saving on InternetExplorer]]
+title: Saving with TiddlyIE
+type: text/vnd.tiddlywiki
+
+# 다음에서 [[티들리IE|TiddlyIE]] 부가 기능을 설치하세요:
+#* https://github.com/davidjade/TiddlyIE/releases
+# Internet Explorer를 다시 시작하세요. IE가 [[티들리IE|TiddlyIE]] 부가 기능을 활성화하기 위해 물어볼 것입니다.
+#> 또한 //Microsoft Script Runtime//을 활성화하기 위해 물어보는 것이 보여질 수도 있습니다
+# 이 링크를 저장하여 빈 [[티들리위키|TiddlyWiki]]를 [[다운로드|Download]]하세요:
+#> http://tiddlywiki.com/languages/ko-KR/empty.html
+# 다운로드한 파일을 찾으세요
+#* 그것의 이름을 바꿀 수는 있지만, `.html` 또는 `.htm` 확장자를 유지해야 합니다
+# 파일을 Internet Explorer에서 여세요
+# 사이드바에서 ''새 티들러'' {{$:/core/images/new-button}} 버튼을 사용해 새 티들러를 만들어보세요. 티들러에 어떤 내용을 입력하고 나서, {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하세요
+# 사이드바의 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하여 바뀜을 저장하세요. Internet Explorer는 ''다른 이름으로 저장'' 대화 상자를 제시하여 파일을 로컬로 저장할 것을 물어볼 것입니다.
+# 바뀜이 올바르게 저장되었는지 확인하려면 브라우저 창을 새로 고치세요

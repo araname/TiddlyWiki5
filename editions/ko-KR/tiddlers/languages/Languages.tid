@@ -1,0 +1,18 @@
+created: 20141202125500000
+ko-title: 언어
+modified: 20160516081554709
+tags: TableOfContents
+title: Languages
+type: text/vnd.tiddlywiki
+
+!! 언어 플러그인
+
+코어 [[티들리위키|TiddlyWiki]] 사용자 인터페이스는 20개 언어로 사용할 수 있습니다. [[제어판|$:/ControlPanel]] ''플러그인'' 탭 아래의 플러그인 관리자를 사용하여 언어 플러그인을 설치할 수 있습니다.
+
+여러분은 [[여러분의 언어로 티들리위키를 번역|Translate TiddlyWiki into your language]]하는 방법을 배워서 라이브러리에 새 언어를 기여할 수 있습니다.
+
+!! 언어 에디션
+
+어떤 언어는, 여기에 추가로 번역된 설명문서가 있는 미리 구축된 에디션이 있습니다:
+
+<<list-links "[tag[Languages]]">>

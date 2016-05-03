@@ -1,0 +1,10 @@
+created: 20131109105400007
+ko-title: 알파배포판
+modified: 20160604165234954
+tags: Releases
+title: AlphaReleases
+type: text/vnd.tiddlywiki
+
+여기에 [[티들리위키5|TiddlyWiki]]의 알파 배포판의 자세한 사항이 있습니다. 어떻게 배포판의 이름이 지어지는지에 대한 자세한 사항은 [[티들리위키5 버전 짓기|TiddlyWiki5 Versioning]]를 보세요.
+
+<<tabs "[tag[AlphaReleaseNotes]!sort[created]]" "Release 5.0.1-alpha" "$:/state/tab2" "tc-vertical" "ReleaseTemplate">>

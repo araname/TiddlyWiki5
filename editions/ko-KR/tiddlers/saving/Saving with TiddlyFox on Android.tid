@@ -1,0 +1,25 @@
+created: 20140103134551508
+ko-title: Android에서 티들리폭스로 저장
+modified: 20160731093202369
+tags: Saving
+title: Saving with TiddlyFox on Android
+type: text/vnd.tiddlywiki
+
+(다른 방법으로, [[동영상 자습서|TiddlyWiki on Firefox for Android Video]]를 봅니다)
+
+# [[Android용 Firefox|Firefox for Android]]가 최신 버전인지 확인하세요
+#* http://getfirefox.com
+# 다음에서 [[티들리폭스|TiddlyFox]] 확장 기능의 최신 배포판을 설치하세요:
+#* https://addons.mozilla.org/ko/firefox/addon/tiddlyfox/
+# [[티들리위키|TiddlyWiki]] 파일을 로컬로 저장할 수 있도록 이 확장 기능을 설치하세요:
+#* https://addons.mozilla.org/ko/android/addon/save-link-menus/
+# 이 링크를 저장하여 빈 [[티들리위키|TiddlyWiki]]를 [[다운로드|Download]]하세요:
+#* http://tiddlywiki.com/languages/ko-KR/empty.html
+#> (링크를 저장하려면, "save-link-menus" 확장 기능이 설치되어 있는지 확인하고 나서 링크를 길게 누르고 "링크 저장"을 선택하세요)
+# 파일이 다운로드되면, 알림 트레이나 다운로드 관리자 애플리케이션 안에서 그것을 클릭하세요
+# (기본 Android 뷰어보다는) 파일을 열기 위해 Firefox를 선택하세요
+# [[티들리폭스|TiddlyFox]]에서 이 파일을 저장하는 것을 활성화할지를 물어보면 ''확인''을 클릭하세요
+# 사이드바에서 ''새 티들러'' {{$:/core/images/new-button}} 버튼을 사용해 새 티들러를 만들어보세요. 티들러에 어떤 내용을 입력하고 나서, {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하세요
+# 사이드바의 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하여 바뀜을 저장하세요
+#* 창의 위 오른쪽에 노란 ''위키를 저장했습니다'' 알림이 보여집니다
+# 바뀜이 올바르게 저장되었는지 확인하려면 브라우저 창을 새로 고치세요

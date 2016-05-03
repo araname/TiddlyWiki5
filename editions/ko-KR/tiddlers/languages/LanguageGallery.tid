@@ -1,0 +1,26 @@
+created: 20151231083708980
+ko-title: 언어갤러리
+modified: 20160519073959488
+tags: 
+title: LanguageGallery
+type: text/vnd.tiddlywiki
+
+여기에는 모든 언어 아이콘의 격자를 보여주는 [[목록위젯|ListWidget]]과 [[끼워넣기위젯|TranscludeWidget]]을 사용한 예제가 있습니다. (즉, [[언어|Language]]와 [[아이콘|Icon]]으로 태그된 티들러)
+
+<style>
+.language-gallery img {
+width: 5em;
+height: auto;
+margin: 0.5em;
+-webkit-box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+</style>
+<div class="language-gallery">
+<$list filter="[all[tiddlers+shadows]tag[Language]tag[Icon]]">
+<span title=<<currentTiddler>>>
+<$transclude/>
+</span>
+</$list>
+</div>

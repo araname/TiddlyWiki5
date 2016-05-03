@@ -1,0 +1,13 @@
+caption: 티들리데스크톱
+created: 20150419144649101
+ko-title: 티들리데스크톱 배포판
+modified: 20160602043234445
+tags: Releases
+title: TiddlyDesktop Releases
+type: text/vnd.tiddlywiki
+
+여기에 [[티들리데스크톱|TiddlyDesktop]]의 최근 배포판의 자세한 사항이 있습니다
+
+<$list filter="[tag[TiddlyDesktopReleaseNotes]!sort[created]limit[1]]">
+  <$macrocall $name="tabs" tabsList="[tag[TiddlyDesktopReleaseNotes]!sort[created]]"default={{!!title}} class="tc-vertical" template="ReleaseTemplate" />
+</$list>

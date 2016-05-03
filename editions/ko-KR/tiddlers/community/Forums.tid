@@ -1,0 +1,29 @@
+caption: 포럼
+created: 20140721121924384
+ko-title: 포럼
+modified: 20160624101222151
+tags: Community
+title: Forums
+type: text/vnd.tiddlywiki
+
+! 사용자
+
+티들리위키 토론 그룹은 티들리위키에 대해 이야기하는 메일링 리스트입니다: 도움 요청, 새 배포판과 플러그인의 발표, 새 기능 토론, 또는 경험 공유. 연관된 웹사이트를 통해 참여하거나, 이메일을 통해 구독할 수 있습니다.
+
+* 주요 ~TiddlyWiki 그룹: http://groups.google.com/group/TiddlyWiki
+*> 토론 그룹에 가입하기 위해 Google 계정이 필요하지 않음을 참고하세요. mailto:tiddlywiki+subscribe@googlegroups.com 또는 mailto:tiddlywikidev+subscribe@googlegroups.com에 이메일을 보내서 구독하세요.
+* 정기 [[티들리위키 행아웃|TiddlyWiki Hangouts]]의 기록을 보세요
+* 최신 뉴스에 대해서는 [[트위터의 @TiddlyWiki|http://twitter.com/TiddlyWiki]]를 팔로우하세요
+
+! 개발자
+
+* 개발자를 위한 TiddlyWikiDev 그룹: http://groups.google.com/group/TiddlyWikiDev
+*> 토론 그룹에 가입하기 위해 Google 계정이 필요하지 않음을 참고하세요. mailto:tiddlywiki+subscribe@googlegroups.com 또는 mailto:tiddlywikidev+subscribe@googlegroups.com에 이메일을 보내서 구독하세요.
+* 최신 뉴스에 대해서는 [[트위터의 @TiddlyWiki|http://twitter.com/#!/TiddlyWiki]]를 팔로우하세요
+* [[GitHub에서 개발|https://github.com/Jermolene/TiddlyWiki5]]에 참여하세요
+
+[[티들리위키|TiddlyWiki]], [[티들리데스크톱|TiddlyDesktop]] 및 [[티들리폭스|TiddlyFox]]의 새 배포판은 토론 그룹과 [[트위터|https://twitter.com/TiddlyWiki]]를 통해 발표됩니다 (또한 [[GitHub에서 티들리위키 배포판|https://github.com/jermolene/tiddlywiki5/releases.atom]]의 Atom/RSS 피드를 구독할 수 있습니다)
+
+! 설명문서
+
+여기에는 또한 특별히 [[티들리위키|TiddlyWiki]] 설명문서 개선 계획을 토론하기 위한 토론 그룹이 있습니다: http://groups.google.com/group/tiddlywikidocs

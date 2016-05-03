@@ -1,0 +1,12 @@
+created: 20131212223146250
+ko-title: Windows HTA 핵
+modified: 20160601112940743
+tags: [[Saving on InternetExplorer]]
+title: Windows HTA Hack
+type: text/vnd.tiddlywiki
+
+Windows에서는 `*.hta` 확장자로 HTML 파일의 이름을 바꾸어 참된 로컬 애플리케이션 안으로 [[티들리위키|TiddlyWiki]]를 변환할 수 있습니다. ''fsosaver'' 모듈은 바뀜을 저장하기 위해 ~ActiveX ~FileSystemObject를 사용할 수 있습니다.
+
+이 접근법의 한 가지 불리한 점으로는 [[티들리위키|TiddlyWiki]] 파일이 UTF-16 형식으로 저장되어, 평소 UTF-8 인코딩을 하는 것에 비해 2배 정도 커질 수 있음을 참고하세요. 하지만, 파일을 열고 다른 저장 방법을 통해 저장하면 파일이 UTF-8로 다시 인코딩됩니다.
+
+자세한 사항은 위키백과를 보세요: http://en.wikipedia.org/wiki/HTML_Application

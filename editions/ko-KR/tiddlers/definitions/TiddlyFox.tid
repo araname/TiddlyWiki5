@@ -1,0 +1,18 @@
+created: 20130825161100000
+ko-title: 티들리폭스
+modified: 20160624142719932
+tags: Definitions
+title: TiddlyFox
+type: text/vnd.tiddlywiki
+
+[[티들리폭스|TiddlyFox]]는 독립형 [[티들리위키|TiddlyWiki]] 파일을 파일 시스템으로 직접 바뀜을 저장하기 위한 Firefox를 위한 확장 기능입니다. [[티들리폭스|TiddlyFox]]는 [[Firefox]]의 데스크톱과 스마트폰 버전 둘 다 작동합니다. 자세한 지침에 대해서는 [[티들리폭스로 저장|Saving with TiddlyFox]] 또는 [[Android에서 티들리폭스로 저장|Saving with TiddlyFox on Android]]을 보세요. TiddlyFox is an extension for Firefox that allows standalone TiddlyWiki files to save their changes directly to the file system. TiddlyFox works on both desktop and smartphone versions of [[Firefox]]. See [[Saving with TiddlyFox]] or [[Saving with TiddlyFox on Android]] for detailed instructions.
+
+[[티들리폭스|TiddlyFox]]는 Mozilla 부가 기능 사이트에서 다운로드할 수 있습니다 TiddlyFox can be downloaded from the Mozilla Addons site:
+
+https://addons.mozilla.org/ko/firefox/addon/tiddlyfox/
+
+<<<
+또한 GitHub에서 [[티들리폭스|TiddlyFox]]의 최신 개발 버전을 설치할 수 있습니다 You can also install the latest development version of TiddlyFox direct from GitHub:
+
+https://github.com/TiddlyWiki/TiddlyFox/raw/master/tiddlyfox.xpi
+<<<

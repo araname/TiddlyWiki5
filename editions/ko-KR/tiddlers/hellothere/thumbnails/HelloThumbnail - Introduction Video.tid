@@ -1,0 +1,13 @@
+background-color: #fff
+caption: 티들리위키 소개
+color: red
+created: 20160429054403435
+icon: {{$:/core/images/video}}
+image: Introduction Video Thumbnail.jpg
+ko-title: 안녕섬네일 - 소개 동영상
+link: Introduction Video
+modified: 20160504082030315
+tags: HelloThumbnail
+title: HelloThumbnail - Introduction Video
+type: application/x-tiddler
+

@@ -1,0 +1,17 @@
+created: 20141126153016142
+ko-title: 여러분의 언어로 티들리위키를 번역
+modified: 20160622143748388
+tags: Community
+title: Translate TiddlyWiki into your language
+type: text/vnd.tiddlywiki
+
+여기에는 번역을 만들고 유지 관리를 하는 것을 간소화한 [[티들리위키|TiddlyWiki]]의 특별한 에디션이 있습니다:
+
+* 티들리위키의 현재 버전을 번역하려면 http://tiddlywiki.com/editions/translators/
+* 티들리위키의 최신 프리릴리스 버전을 번역하려면 http://tiddlywiki.com/prerelease/editions/translators/
+
+Node.js나 GitHub의 지식이 필요하지 않음을 참고하세요.
+
+Node.js에서 티들리위키를 번역할 수 있습니다, `tiddlywiki editions/translators --server`를 입력하고 브라우저에서 [[http://127.0.0.1:8080/]]을 방문하세요.
+
+번역을 만들고 유지 관리하는 기술적인 자세한 사항은 [[http://tiddlywiki.com/dev]]를 보세요.

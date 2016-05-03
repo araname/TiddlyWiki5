@@ -1,0 +1,17 @@
+created: 20140908163900000
+ko-title: 여러분의 티들러를 다른 이들과 공유
+modified: 20160624132022312
+tags: Learning
+title: Sharing your tiddlers with others
+type: text/vnd.tiddlywiki
+
+여기에는 사람들이 티들러를 공유할 수 있는 여러 방법이 있습니다 There are a number of ways that people can share tiddlers:
+
+*티들리위키를 이메일로 첨부할 수 있습니다 You can attach a ~TiddlyWiki to an e-mail
+*티들리위키를 온라인으로 게시하고, 다른 이들에게 보내거나 메시지를 남기기 위해 링크를 추출할 수 있습니다 You can publish your ~TiddlyWiki online, and grab a link to send or message to others:
+**파일 자신의 URL로 링크 A link to the URL of the file itself
+**특정 티들러로의 고유링크 ({{$:/core/images/permalink-button}}) ([[고유링크|PermaLinks]]를 보세요) A permalink ({{$:/core/images/permalink-button}}) to a specific tiddler (see [[PermaLinks]])
+**현재 열린 모든 티들러의 고유보기 ({{$:/core/images/permaview-button}}) 링크 ([[고유보기|PermaView]]를 보세요) A permaview ({{$:/core/images/permaview-button}}) link of all the currently open tiddlers (see [[PermaView]])
+*다른 이들이 그들의 파일 안에서 티들러로의 링크를 클릭하고 나서 여러분 자신의 파일 안에 링크를 드래그 앤 드롭하여 온라인에 게시하는 티들리위키에서 티들러를 추출할 수 있습니다. 가져오기 티들러가 나타날 것이며, 여러분의 파일에 티들러를 가져오려면 클릭할 수 있습니다. ([[티들러가져오기|ImportTiddlers]]를 보세요) You can grab tiddlers from ~TiddlyWikis that others have published online by clicking on a link to the tiddler within their file, and then dragging and dropping the link into your own file. An import tiddler will appear, and you can click to import the tiddler or tiddlers to your file. (see [[ImportTiddlers]])
+* [[티들리위키로의 링크를 Dropbox에 공유|Sharing a TiddlyWiki on Dropbox]]할 수 있습니다 You can [[share a Dropbox link to your TiddlyWiki|Sharing a TiddlyWiki on Dropbox]]
+* 텍스트, 정적 HTML, 쉼표로 구분된 값 (즉 스프레드시트 호환)을 포함한 다양한 형식으로 [[티들러를 내보낼|How to export tiddlers]] ({{$:/core/images/export-button}}) 수 있습니다 You can [[export tiddlers|How to export tiddlers]] ({{$:/core/images/export-button}}) in a variety of formats including text, static HTML, comma separated values (ie spreadsheet compatible)

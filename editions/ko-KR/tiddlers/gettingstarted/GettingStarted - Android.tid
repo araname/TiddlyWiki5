@@ -1,0 +1,20 @@
+caption: Android
+created: 20140811171036268
+ko-title: 시작하기 - Android
+modified: 20160518112045110
+title: GettingStarted - Android
+type: text/vnd.tiddlywiki
+
+여기에 Android에서 [[티들리위키|TiddlyWiki]]를 사용하기 위한 세 옵션이 있습니다:
+
+! Firefox와 [[티들리폭스|TiddlyFox]] 사용
+
+{{Saving with TiddlyFox on Android}}
+
+! AndTidWiki 앱 사용
+
+{{Saving on Android}}
+
+! Termux에서 Node.js 사용
+
+{{Serving TW5 from Android}}

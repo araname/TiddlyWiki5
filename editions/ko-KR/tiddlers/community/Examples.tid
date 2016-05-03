@@ -1,0 +1,25 @@
+caption: 예제
+created: 20140320230543190
+ko-title: 예제
+modified: 20160602173402099
+tags: HelloThere Community
+title: Examples
+type: text/vnd.tiddlywiki
+
+이 모음집은 일상에서 사용하고 있는 티들리위키의 감동을 주고 흥미로운 예제를 전시합니다. GitHub, 트위터를 통해 또는 [[티들리위키 그룹스|Forums]]에 게시하여 이 모음집에 새 항목을 제출하세요.
+
+<div class="tc-link-info">
+
+<$list filter="[tag[Examples]!sort[modified]]">
+
+<div class="tc-link-info-item">
+
+! <$link><$view field="title"/></$link>
+
+<div class="tc-subtitle"><$view field="modified" format="relativedate"/>에 게시됨</div>
+
+<$transclude/>
+
+</div>
+
+</$list>

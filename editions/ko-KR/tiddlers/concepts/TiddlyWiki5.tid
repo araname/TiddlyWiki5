@@ -1,0 +1,7 @@
+created: 20130825213600000
+modified: 20160624172406007
+tags: Concepts
+title: TiddlyWiki5
+type: text/vnd.tiddlywiki
+
+티들리위키5는 다음 25년을 위해 [[티들리위키|TiddlyWiki]]를 리부트한 것입니다. 그것은 브라우저에서 또는 [[Node.js]]에 따른 서버에서 실행할 수 있는 [[자바스크립트|JavaScript]]의 완전한 대화형 위키입니다. ~TiddlyWiki5 is a reboot of TiddlyWiki for the next 25 years. It is a complete interactive wiki in JavaScript that can be run in the browser or on the server under [[Node.js]].

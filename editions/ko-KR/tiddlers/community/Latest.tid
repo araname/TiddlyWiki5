@@ -1,0 +1,27 @@
+caption: 최신
+created: 20140321090511826
+ko-title: 최신
+modified: 20160523123653026
+tags: Community
+title: Latest
+type: text/vnd.tiddlywiki
+
+최신 뉴스, 기사, 자료 및 예제.
+
+<div class="tc-link-info">
+
+<$list filter="[tag[Articles]] [tag[Examples]] [tag[Resources]] [tag[Tutorials]] +[!sort[modified]limit[8]]">
+
+<div class="tc-link-info-item">
+
+! <$link><$view field="title"/></$link>
+
+<div class="tc-subtitle"><$view field="modified" format="relativedate"/>에 게시됨</div>
+
+<$transclude/>
+
+</div>
+
+</$list>
+
+</div>

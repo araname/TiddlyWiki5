@@ -1,0 +1,12 @@
+caption: 매크로
+created: 20131205160746466
+ko-title: 위키텍스트의 매크로
+modified: 20160617120113893
+tags: WikiText
+title: Macros in WikiText
+type: text/vnd.tiddlywiki
+
+[[위키텍스트|WikiText]]에서 [[매크로|Macros]]의 사용은 두 가지 측면이 있습니다:
+
+* [[매크로 정의|Macro Definitions in WikiText]]
+* [[매크로 호출|Macro Calls in WikiText]]

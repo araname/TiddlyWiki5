@@ -1,0 +1,11 @@
+created: 20131212182652334
+ko-title: InternetExplorer에서 저장
+modified: 20160606032409742
+tags: Saving
+title: Saving on InternetExplorer
+type: text/vnd.tiddlywiki
+
+기본적으로, [[티들리위키|TiddlyWiki]]는 InternetExplorer 10 이상에서 새로 수정된 파일을 직접 저장하는 것보다 그것을 다운로드하는 세이버 모듈을 사용해 바뀜을 저장합니다. 여기에 직접 파일로 바뀜을 저장하는 두 가지 방법이 있습니다:
+
+* [[TiddlyIE 브라우저 확장 기능 사용|Saving with TiddlyIE]]
+* [[티들리위키|TiddlyWiki]] HTML 파일을 `*.hta` 확장자로 이름을 바꾸어 [[Windows HTA 핵|Windows HTA Hack]] 사용.

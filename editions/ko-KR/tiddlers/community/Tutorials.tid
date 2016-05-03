@@ -1,0 +1,27 @@
+caption: 자습서
+created: 20140908125300000
+ko-title: 자습서
+modified: 20160602173342406
+tags: Community
+title: Tutorials
+type: text/vnd.tiddlywiki
+
+여기에는 티들리위키와 관련된 팁과 자습서로 된 웹페이지가 있습니다.
+
+<div class="tc-link-info">
+
+<$list filter="[tag[Tutorials]!sort[modified]]">
+
+<div class="tc-link-info-item">
+
+! <$link><$view field="title"/></$link>
+
+<div class="tc-subtitle"><$view field="modified" format="relativedate"/>에 게시됨</div>
+
+<$transclude/>
+
+</div>
+
+</$list>
+
+</div>

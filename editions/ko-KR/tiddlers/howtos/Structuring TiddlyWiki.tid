@@ -1,0 +1,13 @@
+created: 20131128090536894
+ko-title: 티들리위키 구성하기
+modified: 20160519034644312
+tags: [[Working with TiddlyWiki]]
+title: Structuring TiddlyWiki
+type: text/vnd.tiddlywiki
+
+[[티들리위키5|TiddlyWiki5]]는 [[티들러|Tiddlers]]와 티들러 사이의 관계를 모델링하여 정보를 구성하는 데 도움을 주는 여러 기능을 제공합니다:
+
+* [[티들러링크|TiddlerLinks]]
+* [[태그하기|Tagging]]
+* [[제목 목록|Title List]]
+* [[데이터티들러|DataTiddlers]]

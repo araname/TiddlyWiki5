@@ -1,0 +1,23 @@
+created: 20131129101027725
+ko-title: iPad/iPhone에서 저장
+modified: 20160602171813955
+tags: Saving
+title: Saving on iPad/iPhone
+type: text/vnd.tiddlywiki
+
+iPad/iPhone 앱 ''TWEdit''는 네트워크 연결 없이 오프라인으로 작동하는 것을 포함하여, [[티들리위키5|TiddlyWiki5]]를 편집하고 바뀜을 저장할 수 있도록 합니다. [[여기에서 다운로드하세요|https://itunes.apple.com/kr/app/twedit/id409607956?mt=8]].
+
+사용 지침:
+
+# TWEdit를 여세요
+# 도구 모음 가운데의 제목을 터치하세요
+#* 텍스트 상자가 URL을 입력할 수 있도록 나타나야 합니다
+# `http://tiddlywiki.com/languages/ko-KR/empty.html` URL을 입력하세요
+# 빈 [[티들리위키|TiddlyWiki]]를 불러오면, ''save'' 아이콘을 터치하세요 (위 도구 모음의 오른쪽에서 두번째 아이콘입니다)
+#* 알럿 상자가 로컬 파일 이름을 입력할 수 있도록 나타나야 합니다
+# 문서에 사용하고 싶은 파일 이름을 입력하세요 (`.html`로 끝맺음)
+# 사이드바에서 ''새 티들러'' {{$:/core/images/new-button}} 버튼을 사용해 새 티들러를 만들어보세요. 티들러에 어떤 내용을 입력하고 나서, {{$:/core/images/done-button}} ''확인'' 버튼을 클릭하세요
+# 사이드바의 {{$:/core/images/save-button}} ''바뀜 저장'' 버튼을 클릭하여 바뀜을 저장하세요
+#* 확인 메시지가 창의 위 오른쪽에 나타나야 합니다
+
+//TWEdit는 [[티들리위키|TiddlyWiki]]와 독립적으로 배포됨을 참고하세요//
