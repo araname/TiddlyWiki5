@@ -314,7 +314,7 @@ NavigatorWidget.prototype.generateDraftTitle = function(title) {
 	var c = 0,
 		draftTitle;
 	do {
-		draftTitle = "Draft " + (c ? (c + 1) + " " : "") + "of '" + title + "'";
+		draftTitle = $tw.language.getString("Draft") + (c ? " " + (c + 1) : "") + " " + $tw.language.getString("Of") + " \"" + title + "\"";
 		c++;
 	} while(this.wiki.tiddlerExists(draftTitle));
 	return draftTitle;
