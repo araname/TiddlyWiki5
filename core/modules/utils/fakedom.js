@@ -57,14 +57,14 @@ Object.defineProperty(TW_Element.prototype, "nodeType", {
 
 TW_Element.prototype.getAttribute = function(name) {
 	if(this.isRaw) {
-		throw "Cannot getAttribute on a raw TW_Element";
+		throw $tw.language.getString("Fakedom/CannotGetAttribute");
 	}
 	return this.attributes[name];
 };
 
 TW_Element.prototype.setAttribute = function(name,value) {
 	if(this.isRaw) {
-		throw "Cannot setAttribute on a raw TW_Element";
+		throw $tw.language.getString("Fakedom/CannotSetAttribute");
 	}
 	this.attributes[name] = value;
 };
@@ -75,7 +75,7 @@ TW_Element.prototype.setAttributeNS = function(namespace,name,value) {
 
 TW_Element.prototype.removeAttribute = function(name) {
 	if(this.isRaw) {
-		throw "Cannot removeAttribute on a raw TW_Element";
+		throw $tw.language.getString("Fakedom/CannotRemoveAttribute");
 	}
 	if($tw.utils.hop(this.attributes,name)) {
 		delete this.attributes[name];
@@ -212,7 +212,7 @@ Object.defineProperty(TW_Element.prototype, "innerHTML", {
 Object.defineProperty(TW_Element.prototype, "textContent", {
 	get: function() {
 		if(this.isRaw) {
-			throw "Cannot get textContent on a raw TW_Element";
+			throw $tw.language.getString("Fakedom/CannotGetTextContent");
 		} else {
 			var b = [];
 			$tw.utils.each(this.children,function(node) {
@@ -229,7 +229,7 @@ Object.defineProperty(TW_Element.prototype, "textContent", {
 Object.defineProperty(TW_Element.prototype, "formattedTextContent", {
 	get: function() {
 		if(this.isRaw) {
-			throw "Cannot get formattedTextContent on a raw TW_Element";
+			throw $tw.language.getString("Fakedom/CannotGetFormattedTextContent");
 		} else {
 			var b = [],
 				isBlock = $tw.config.htmlBlockElements.indexOf(this.tag) !== -1;

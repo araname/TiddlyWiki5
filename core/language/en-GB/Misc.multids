@@ -31,6 +31,11 @@ Error/RetrievingSkinny: Error retrieving skinny tiddler list
 Error/SavingToTWEdit: Error saving to TWEdit
 Error/WhileSaving: Error while saving
 Error/XMLHttpRequest: XMLHttpRequest error code
+Fakedom/CannotGetAttribute: Cannot getAttribute on a raw TW_Element
+Fakedom/CannotGetFormattedTextContent: Cannot get formattedTextContent on a raw TW_Element
+Fakedom/CannotGetTextContent: Cannot get textContent on a raw TW_Element
+Fakedom/CannotRemoveAttribute: Cannot removeAttribute on a raw TW_Element
+Fakedom/CannotSetAttribute: Cannot setAttribute on a raw TW_Element
 Filter/MissingOpeningSquareBracket: Missing [ in filter expression
 Filter/MissingClosingSquareBracket: Missing ] in filter expression
 Filter/MissingClosingBracket: Missing closing bracket in filter expression

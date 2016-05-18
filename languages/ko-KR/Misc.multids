@@ -31,6 +31,11 @@ Error/RetrievingSkinny: 날씬한 티들러 목록을 얻는 중 오류
 Error/SavingToTWEdit: TW편집으로 저장하는 데 오류
 Error/WhileSaving: 저장하는 동안 오류
 Error/XMLHttpRequest: XMLHttpRequest 오류 코드
+Fakedom/CannotGetAttribute: 원본 TW_Element에서 getAttribute할 수 없습니다
+Fakedom/CannotGetFormattedTextContent: 원본 TW_Element에서 formattedTextContent를 얻을 수 없습니다
+Fakedom/CannotGetTextContent: 원본 TW_Element에서 textContent를 얻을 수 없습니다
+Fakedom/CannotRemoveAttribute: 원본 TW_Element에서 removeAttribute할 수 없습니다
+Fakedom/CannotSetAttribute: 원본 TW_Element에서 setAttribute할 수 없습니다
 Filter/MissingOpeningSquareBracket: 필터 표현식에서 [ 없음
 Filter/MissingClosingSquareBracket: 필터 표현식에서 ] 없음
 Filter/MissingClosingBracket: 필터 표현식에서 닫는 괄호 없음
