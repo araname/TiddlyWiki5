@@ -428,7 +428,7 @@ Widget.prototype.findNextSiblingDomNode = function(startIndex) {
 	var parent = this.parentWidget,
 		index = startIndex !== undefined ? startIndex : parent.children.indexOf(this);
 if(index === -1) {
-	throw "node not found in parents children";
+	throw $tw.language.getString("Widget/NodeNotFound");
 }
 	// Look for a DOM node in the later siblings
 	while(++index < parent.children.length) {
