@@ -61,4 +61,5 @@ TagManager/Info/Heading: Info
 TagManager/Tag/Heading: Tag
 Tiddler/DateFormat: DDth MMM YYYY at hh12:0mmam
 UnsavedChangesWarning: You have unsaved changes in TiddlyWiki
+Utils/Base64DecodeNotWork: $tw.utils.base64Decode() doesn't work in the browser
 Yes: Yes

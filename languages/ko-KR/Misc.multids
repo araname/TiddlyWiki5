@@ -61,4 +61,5 @@ TagManager/Info/Heading: 정보
 TagManager/Tag/Heading: 태그
 Tiddler/DateFormat: YYYY년 MMM DD일 am hh12:0mm
 UnsavedChangesWarning: 티들리위키에 저장하지 않은 바뀜이 있습니다
+Utils/Base64DecodeNotWork: $tw.utils.base64Decode()는 브라우저에서 작동되지 않습니다
 Yes: 예
