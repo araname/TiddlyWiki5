@@ -31,6 +31,10 @@ Error/RetrievingSkinny: Error retrieving skinny tiddler list
 Error/SavingToTWEdit: Error saving to TWEdit
 Error/WhileSaving: Error while saving
 Error/XMLHttpRequest: XMLHttpRequest error code
+Filter/MissingOpeningSquareBracket: Missing [ in filter expression
+Filter/MissingClosingSquareBracket: Missing ] in filter expression
+Filter/MissingClosingBracket: Missing closing bracket in filter expression
+Filter/UnterminatedRegExp: Unterminated regular expression in filter expression
 InternalJavaScriptError/Title: Internal JavaScript Error
 InternalJavaScriptError/Hint: Well, this is embarrassing. It is recommended that you restart TiddlyWiki by refreshing your browser
 InvalidFieldName: Illegal characters in field name "<$text text=<<fieldName>>/>". Fields can only contain lowercase letters, digits and the characters underscore (`_`), hyphen (`-`) and period (`.`)

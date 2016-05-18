@@ -23,7 +23,7 @@ function parseFilterOperation(operators,filterString,p) {
 	var operator, operand, bracketPos, curlyBracketPos;
 	// Skip the starting square bracket
 	if(filterString.charAt(p++) !== "[") {
-		throw "Missing [ in filter expression";
+		throw $tw.language.getString("Filter/MissingOpeningSquareBracket");
 	}
 	// Process each operator in turn
 	do {
@@ -35,7 +35,7 @@ function parseFilterOperation(operators,filterString,p) {
 		// Get the operator name
 		var nextBracketPos = filterString.substring(p).search(/[\[\{<\/]/);
 		if(nextBracketPos === -1) {
-			throw "Missing [ in filter expression";
+			throw $tw.language.getString("Filter/MissingOpeningSquareBracket");
 		}
 		nextBracketPos += p;
 		var bracket = filterString.charAt(nextBracketPos);
@@ -75,13 +75,13 @@ console.log("WARNING: Filter",operator.operator,"has a deprecated regexp operand
 					nextBracketPos = p + rex.lastIndex - 1;
 				}
 				else {
-					throw "Unterminated regular expression in filter expression";
+					throw $tw.language.getString("Filter/UnterminatedRegExp");
 				}
 				break;
 		}
 		
 		if(nextBracketPos === -1) {
-			throw "Missing closing bracket in filter expression";
+			throw $tw.language.getString("Filter/MissingClosingBracket");
 		}
 		if(!operator.regexp) {
 			operator.operand = filterString.substring(p,nextBracketPos);
@@ -93,7 +93,7 @@ console.log("WARNING: Filter",operator.operator,"has a deprecated regexp operand
 	} while(filterString.charAt(p) !== "]");
 	// Skip the ending square bracket
 	if(filterString.charAt(p++) !== "]") {
-		throw "Missing ] in filter expression";
+		throw $tw.language.getString("Filter/MissingClosingSquareBracket");
 	}
 	// Return the parsing position
 	return p;
