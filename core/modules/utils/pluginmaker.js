@@ -21,14 +21,14 @@ exports.repackPlugin = function(title,additionalTiddlers,excludeTiddlers) {
 	// Get the plugin tiddler
 	var pluginTiddler = $tw.wiki.getTiddler(title);
 	if(!pluginTiddler) {
-		throw "No such tiddler as " + title;
+		throw $tw.language.getString("Pluginmaker/NoTiddler");
 	}
 	// Extract the JSON
 	var jsonPluginTiddler;
 	try {
 		jsonPluginTiddler = JSON.parse(pluginTiddler.fields.text);
 	} catch(e) {
-		throw "Cannot parse plugin tiddler " + title + "\n" + $tw.language.getString("Error/Caption") + ": " + e;
+	throw $tw.language.getString("Pluginmaker/CannotParse") + "\n" + $tw.language.getString("Error/Caption") + ": " + e;
 	}
 	// Get the list of tiddlers
 	var tiddlers = Object.keys(jsonPluginTiddler.tiddlers);

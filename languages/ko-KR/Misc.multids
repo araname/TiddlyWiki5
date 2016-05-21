@@ -49,6 +49,8 @@ MissingTiddler/Hint: "<$text text=<<currentTiddler>>/>" 티들러가 없습니�
 No: 아니오
 OfficialPluginLibrary: 공식 티들리위키 플러그인 라이브러리
 OfficialPluginLibrary/Hint: tiddlywiki.com에서의 공식 티들리위키 플러그인 라이브러리입니다. 플러그인, 테마 및 언어 팩은 코어 팀이 유지 관리하고 있습니다.
+Pluginmaker/CannotParse: <$text text=<<title>>/> 플러그인 티들러를 구문 분석할 수 없습니다
+Pluginmaker/NoTiddler: <$text text=<<title>>/> 티들러는 없습니다
 PluginReloadWarning: 플러그인의 바뀜을 적용할 수 있도록 하려면 저장 {{$:/core/ui/Buttons/save-wiki}}하고 나서 다시 불러오세요 {{$:/core/ui/Buttons/refresh}}
 RecentChanges/DateFormat: YYYY년 MMM DD일
 SystemTiddler/Tooltip: 이것은 시스템 티들러입니다
