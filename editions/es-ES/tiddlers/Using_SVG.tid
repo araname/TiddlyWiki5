@@ -1,12 +1,12 @@
 caption: Uso de SVG's
 created: 20131028132700000
 es-title: Uso de imágenes SVG
-modified: 20160503054238164
+modified: 20160624083815898
 tags: Features
-title: UsingSVG
+title: Using SVG
 type: text/vnd.tiddlywiki
 
-~Tiddlywiki permite el uso de imágenes SVG de dos maneras:
+~TiddlyWiki permite el uso de imágenes SVG de dos maneras:
 
 * Los tiddlers de tipo `image/svg+xml` se interpretan como imágenes SVG, es decir que se muestran como elementos `<img>` con el SVG incrustado en el atributo `src`.
 

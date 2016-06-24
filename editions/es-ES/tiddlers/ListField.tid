@@ -12,6 +12,6 @@ El [[campo|TiddlerFields]] `list` es una característica opcional que se usa par
 
 * El [[filtro|Filters]] `list` selecciona entradas de una lista
 
-* El [[filtro|Filters]]  `listed` muestra qué tiddlers incluyen un tiddler (o selección de varios tiddlers) como entradas de lista.
+* El [[filtro|Filters]] `listed` muestra qué tiddlers incluyen un tiddler (o selección de varios tiddlers) como entradas de lista.
 
 * El widget [[Navegador|NavigatorWidget]] manipula un StoryList que contiene un campo `list` de los tiddlers que se muestran en la columna principal.

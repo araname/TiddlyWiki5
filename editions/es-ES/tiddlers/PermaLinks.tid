@@ -1,7 +1,7 @@
 caption: Permalinks
 created: 20140502213500000
 es-title: Permalinks
-modified: 20160502145938493
+modified: 20160624083625338
 tags: Features Concepts
 title: PermaLinks
 type: text/vnd.tiddlywiki
@@ -34,7 +34,7 @@ Si el tiddler principal no está presente entre los tiddlers de la StoryRiver, s
 
 También es posible definir un filtro sin especificar un tiddler en concreto:
 
-<a href="http://tiddlywiki.com/#:[tags[task]]">~http://tiddlywiki.com/#:[tags[task]]</a>
+<a href="http://tiddlywiki.com/#:[tags[task]]" rel="noopener noreferrer">~http://tiddlywiki.com/#:[tags[task]]</a>
 
 ! Codificación de URL's
 

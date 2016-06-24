@@ -39,7 +39,7 @@ Este es un enlace al tiddler HelloThere y, este otro, a [[Historia de TiddlyWiki
 
 Las macros permiten empaquetar fragmentos de WikiText de difícil ejecución o que se repiten con frecuencia, para así poder usarlos con facilidad y consistentemente.
 
-Por ejemplo, esta es la definición de una macro que inserta un icono y da formato especial a  a un texto usado como advertencia, por ejemplo, en un manual:
+Por ejemplo, esta es la definición de una macro que inserta un icono y da formato especial a a un texto usado como advertencia, por ejemplo, en un manual:
 
 `\define .warning(_) 
 <div class="doc-icon-block">
@@ -56,7 +56,7 @@ El resultado tiene este aspecto:
 
 ! ~WikiText avanzado
 
-Las funciones avanzadas de WikiText te permiten generar listas automáticamente entre otras funciones interactivas como  menús desplegables. De hecho, la interfaz entera de ~TiddlyWiki está escrita en ~WikiText, de modo que casi todo cuanto ves puede es adaptable para su uso en otros wikis.
+Las funciones avanzadas de WikiText te permiten generar listas automáticamente entre otras funciones interactivas como menús desplegables. De hecho, la interfaz entera de ~TiddlyWiki está escrita en ~WikiText, de modo que casi todo cuanto ves puede es adaptable para su uso en otros wikis.
 
 Algunas de estas funciones avanzadas requieren el uso de código complejo. Por ese motivo TIddlyWiki incorpora varias macros que simplifican algunas tareas en la interfaz de usuario, como la creación de pestañas, tablas de contenido y listas.
 

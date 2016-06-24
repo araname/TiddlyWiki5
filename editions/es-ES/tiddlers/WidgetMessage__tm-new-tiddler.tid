@@ -22,7 +22,7 @@ El título del borrador se elige conforme a las siguientes reglas:
 
 * Si no, genera un nuevo título basándose en el nuevo título por defecto y un sufijo numérico para hacerlo único.
 
-El mensaje `tm-new-tiddler` se genera normalmente con ButtonWidget o  ActionSendMessageWidget y lo procesa NavigatorWidget.
+El mensaje `tm-new-tiddler` se genera normalmente con ButtonWidget o ActionSendMessageWidget y lo procesa NavigatorWidget.
 
 !! Ejemplos
 

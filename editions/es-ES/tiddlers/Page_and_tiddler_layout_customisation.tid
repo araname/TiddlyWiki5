@@ -29,7 +29,7 @@ Digamos que tienes un tiddler llamado <<.tid "Plantilla Recetas">> y quieres un 
 # Primero, necesitarás una imagen para el botón. Si ninguna de las imágenes del sistema (tiddlers ocultos con el prefijo y la etiqueta <<.tag ~$:/core/images>>), necesitarás crear o buscar una imagen SVG para ello (por ejemplo una de http://flaticon.com).
 #*En cualquier caso, arrástrala a tu página para [[importarla|ImportTiddlers]], edita convenientemente el tiddler y ajusta sus dimensiones a 22px x 22px
 
-# Necesitarás crear un tiddler que contenga el botón.  Créalo, dale título y añade el código para habilitar el botón:
+# Necesitarás crear un tiddler que contenga el botón. Créalo, dale título y añade el código para habilitar el botón:
 #* ``\define newHereButtonTags()
 [[$(currentTiddler)$]]
 \end

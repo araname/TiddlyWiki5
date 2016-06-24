@@ -6,7 +6,7 @@ tags: [[Working with TiddlyWiki]]
 title: Structuring TiddlyWiki
 type: text/vnd.tiddlywiki
 
-TiddlyWiki5 proporciona varias herramientas útiles para estructurar información en forma de  [[tiddlers|Tiddlers]] y estructurar las diferentes relaciones que se establecen entre ellos:
+TiddlyWiki5 proporciona varias herramientas útiles para estructurar información en forma de [[tiddlers|Tiddlers]] y estructurar las diferentes relaciones que se establecen entre ellos:
 
 * [[Enlaces|TiddlerLinks]]
 * [[Etiquetas|Tagging]]

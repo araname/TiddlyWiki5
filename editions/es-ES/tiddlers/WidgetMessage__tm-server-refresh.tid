@@ -8,5 +8,5 @@ type: text/vnd.tiddlywiki
 
 El mensaje `tm-server-refresh` intenta sincronizar con el servidor los últimos cambios del cliente. 
 
-El SyncMechanism del núcleo es quien procesa este mensaje invocando el  [[Módulo de sincronización|SyncAdaptorModules]] actual, (normalmente, el plugin ''tiddlywiki/tiddlywebadaptor'').
+El SyncMechanism del núcleo es quien procesa este mensaje invocando el [[Módulo de sincronización|SyncAdaptorModules]] actual, (normalmente, el plugin ''tiddlywiki/tiddlywebadaptor'').
 

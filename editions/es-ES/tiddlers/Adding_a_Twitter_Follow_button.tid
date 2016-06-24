@@ -10,7 +10,7 @@ Esta es una macro para crear el botón "Seguir en Twitter" para seguir una cuent
 
 ```
 \define twitterFollowButton(username)
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=$username$"  style="width:300px; height:20px;"></iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=$username$" style="width:300px; height:20px;"></iframe>
 \end
 ```
 El único cambio respecto de la versión publicada en https://dev.twitter.com/docs/follow-button es que se han eliminado las nuevas líneas.
@@ -18,5 +18,5 @@ El único cambio respecto de la versión publicada en https://dev.twitter.com/do
 Ten en cuenta que "src URL" aparece sin protocolo (o sea, "http" o "https"). Se hace así para que funcione en sitios alojados tanto en uno como en otro. Si quieres que el botón de Twitter funcione mientras manejas TiddlyWiki offline como "file://", tendrás que añadir el protocolo manualmente. Por ejemplo:
 
 ```
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=jermolene"  style="width:300px; height:20px;"></iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=jermolene" style="width:300px; height:20px;"></iframe>
 ```

@@ -42,7 +42,7 @@ Los valores de <<.field includeWikis>> pueden ser bien una cadena con la ruta re
 
 * <<.field path>> - ruta relativa al ~WikiFolder
 
-* <<.field read-only>> - con el valor <<.em true>>, previene la modificación de los tiddlers del wiki que se incluye. Toda modificación que se haga en estos se guardará en el directorio definido como  <<.em default-tiddler-location>>, que se describe más abajo
+* <<.field read-only>> - con el valor <<.em true>>, previene la modificación de los tiddlers del wiki que se incluye. Toda modificación que se haga en estos se guardará en el directorio definido como <<.em default-tiddler-location>>, que se describe más abajo
 
 !!! <<.def build>>
 

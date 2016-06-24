@@ -18,7 +18,7 @@ Los títulos de este tipo son en plural si se refieren a una categoría de eleme
 
 Cuando el objeto del título sea un concepto más que una categoría, se enuncia en singular. Ej:<<.tid "List Widget">>, <<.tid "Operador de etiqueta">>
 
-En la edición inglesa, los títulos comienzan enunciando su parte más distintiva. Por ejemplo, los tiddlers que documentan operadores de filtro tienen títulos del estilo  <<.tid "addprefix Operator">>. De este modo, en teoría, el lector puede identificar rápidamente un tiddler particular en una lista de enlaces. 
+En la edición inglesa, los títulos comienzan enunciando su parte más distintiva. Por ejemplo, los tiddlers que documentan operadores de filtro tienen títulos del estilo <<.tid "addprefix Operator">>. De este modo, en teoría, el lector puede identificar rápidamente un tiddler particular en una lista de enlaces. 
 
 En la presente edición en castellano, sin embargo y por coherencia gramatical, los títulos se enuncian en el orden lógico y acostumbrado en nuestra lengua. El ejemplo anterior sería, por tanto: <<.tid "Operador addprefix">>. Nótese, sin embargo, lo siguiente:
 

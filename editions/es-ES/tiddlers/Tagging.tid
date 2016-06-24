@@ -32,7 +32,7 @@ Hay un par más de cosas que se pueden hacer con etiquetas:
 
 Se puede usar el [[gestor de etiquetas|$:/TagManager]] de la pestaña ''Más'' de la barra lateral para cambiarles el color o para añadirles un icono.
 
-* Para cambiar el color, haz clic en el botón de la columna ''Color'' y  selecciona uno nuevo en la rueda. También puedes hacer clic en el icono de la columna ''Información'' e introducir un valor CSS en el campo ''Color''
+* Para cambiar el color, haz clic en el botón de la columna ''Color'' y selecciona uno nuevo en la rueda. También puedes hacer clic en el icono de la columna ''Información'' e introducir un valor CSS en el campo ''Color''
 
 * Para añadir un icono a la etiqueta, haz clic en el botón {{$:/core/images/down-arrow}} de la columna ''Icono'' y selecciona uno de entre los disponibles. También, si sabes el nombre del tiddler que contiene el icono que quieres usar, puedes introducirlo directamente en el campo correspondiente de la columna ''Información''
 
@@ -42,6 +42,6 @@ Se puede usar el [[gestor de etiquetas|$:/TagManager]] de la pestaña ''Más'' d
 
 Por defecto, los tiddlers se muestran en orden alfabético.
 
-Si quieres cambiarlo, añade el campo <<.flink ListField>> al tiddler y como valor enumera los tiddlers según  el orden que quieras que tengan en la [[lista|Title List]].
+Si quieres cambiarlo, añade el campo <<.flink ListField>> al tiddler y como valor enumera los tiddlers según el orden que quieras que tengan en la [[lista|Title List]].
 
 El campo ''list'' no necesita enumerarlos a todos. En [[Orden de los tiddlers etiquetados|Order of Tagged Tiddlers]] se especifican más concretamente las reglas que sigue ~TiddlyWiki para ordenarlos.

@@ -42,7 +42,7 @@ La operación de guardado falla por restricciones de seguridad de Firefox y est�
 
 *# Abre tu wiki local con Chromium y repite los pasos 1 a 5 descritos más arriba
 
-*# Una vez hayas comprobado en Chromium que ~TiddlySpot ha alojado tu wiki correctamente, podrás  acceder, editar y [[guardar con Firefox|Saving with TiddlyFox]] en la copia online.
+*# Una vez hayas comprobado en Chromium que ~TiddlySpot ha alojado tu wiki correctamente, podrás acceder, editar y [[guardar con Firefox|Saving with TiddlyFox]] en la copia online.
 
 * Después de subir tu archivo local por primera vez, podrás editar tu wiki y guardar cambios online con [[cualquier navegador moderno|BrowserCompatibility]] de tu preferencia.
 

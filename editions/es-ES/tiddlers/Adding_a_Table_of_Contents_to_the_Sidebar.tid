@@ -17,7 +17,7 @@ Es posible añadir una [[tabla de contenidos|Table-of-Contents Macros]] a la bar
 
 </div>"""/></code></pre></div>
 
-# Añade el campo <<.field caption>> con el texto <<.def Contenidos>> o la referencia adecuada a un tiddler o variable. p. ej, en el caso de la tabla de contenidos de este wiki,  <<.field caption>> toma su valor del contenido de <<.tid "~$:/language/SideBar/Contents/Caption">>.
+# Añade el campo <<.field caption>> con el texto <<.def Contenidos>> o la referencia adecuada a un tiddler o variable. p. ej, en el caso de la tabla de contenidos de este wiki, <<.field caption>> toma su valor del contenido de <<.tid "~$:/language/SideBar/Contents/Caption">>.
 
 # Añade el campo <<.field ''list-after''>> con el valor <<.word ~$:/core/ui/SideBar/Open>> para que la pestaña de de contenidos se muestre inmediatamente después de la de <<.sidebar-tab Open>>
 

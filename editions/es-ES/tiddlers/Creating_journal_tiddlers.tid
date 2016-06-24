@@ -16,7 +16,7 @@ Por ejemplo: podemos usar una entrada de diario titulada <<.tid "10 de octubre">
 
 !! Creación de una entrada de diario
 
-La manera más sencilla es mediante el botón <<.button new-journal>> de la pestaña <<.sidebar-tab Tools>> de la barra lateral.  Si lo usas con frecuencia, pincha en la casilla para que aparezca entre los iconos que se muestran sobre el cuadro de búsqueda.
+La manera más sencilla es mediante el botón <<.button new-journal>> de la pestaña <<.sidebar-tab Tools>> de la barra lateral. Si lo usas con frecuencia, pincha en la casilla para que aparezca entre los iconos que se muestran sobre el cuadro de búsqueda.
 
 El botón <<.button new-journal>> crea un tiddler en blanco con etiqueta <<.tag Diario>> y título derivado de la fecha de hoy. Si ya existe una entrada con esa misma fecha, entonces lo abre para su edición.
 

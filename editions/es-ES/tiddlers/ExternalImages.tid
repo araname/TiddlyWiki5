@@ -18,7 +18,7 @@ Una imagen externa es un tiddler de imagen que contiene el campo <<.em "_canonic
 
 Para crear manualmente una imagen externa, simplemente crea un tiddler con el tipo apropiado de contenido y añade el campo <<.em "_canonical_uri">> indicando la ruta actual a la imagen.
 
-<<.warning "Comprueba bien que escribes correctamente la ruta y que escribes  [[URI|https://es.wikipedia.org/wiki/Identificador_de_recursos_uniforme]], no URL">>
+<<.warning "Comprueba bien que escribes correctamente la ruta y que escribes [[URI|https://es.wikipedia.org/wiki/Identificador_de_recursos_uniforme]], no URL">>
 
 !! Creación de imágenes externas en Node.js
 
@@ -70,4 +70,4 @@ La plantilla [[$:/core/templates/canonical-uri-external-image]] contiene:
 
 !! Uso de imágenes externas
 
-No es posible editar una imagen externa directamente en el navegador, salvo para editar la URI  de forma que apunte a otra imagen.
+No es posible editar una imagen externa directamente en el navegador, salvo para editar la URI de forma que apunte a otra imagen.

@@ -10,6 +10,6 @@ TiddlyWeb es una aplicación de servidor que publica [[Tiddlers]] en la web:
 
 http://tiddlyweb.com/
 
-TiddlyWeb puede usarse para alojar wikis hechos en ~TiddlyWiki Classic  y TiddlyWiki5, de modo que los tiddlers individuales estén disponibles en una API HTTP flexible. 
+TiddlyWeb puede usarse para alojar wikis hechos en ~TiddlyWiki Classic y TiddlyWiki5, de modo que los tiddlers individuales estén disponibles en una API HTTP flexible. 
 
 TiddlyWeb fue originalmente esponsorizada por Osmosoft en BT, junto con TiddlySpace.

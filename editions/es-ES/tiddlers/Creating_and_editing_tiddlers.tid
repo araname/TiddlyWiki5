@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 ! Crear un tiddler
 
-Un tiddler se crea con un simple clic, bien en el botón <<.button new-tiddler>> de la  barra lateral, o en el enlace a un tiddler vacío, que se distinguen por estar en [[cursiva azul]]
+Un tiddler se crea con un simple clic, bien en el botón <<.button new-tiddler>> de la barra lateral, o en el enlace a un tiddler vacío, que se distinguen por estar en [[cursiva azul]]
 
 Mira también:
 
@@ -41,8 +41,8 @@ Cuando termines con la edición, pulsa uno de los botones que tienes arriba a la
 
 **Si tienes el wiki configurado para que [[guarde automáticamente|AutoSave]] los cambios, no necesitas hacer nada más: tus cambios quedan guardados de forma permanente al salir del editor. Si no tienes el Autosave configurado, los cambios se guardan sólo temporalmente en el navegador y se perderán en cuanto cierres la página. ~TiddlyWIki te avisa en tal caso de que tienes cambios pendientes de guardar mostrándote un botón rojo a la derecha, en la barra lateral. 
 
-**Ese es el botón  <<.button save-wiki>> . Para conservar tus cambios permanentemente, haz clic en él. ~TiddlyWiki guardará los cambios y el botón cambiará su color, indicando que ya no hay peligro.
+**Ese es el botón <<.button save-wiki>> . Para conservar tus cambios permanentemente, haz clic en él. ~TiddlyWiki guardará los cambios y el botón cambiará su color, indicando que ya no hay peligro.
 
-*El botón <<.button cancel>>  interrumpe la edición, descarta todos los cambios (previa confirmación) y sale del editor.
+*El botón <<.button cancel>> interrumpe la edición, descarta todos los cambios (previa confirmación) y sale del editor.
 
 *El botón <<.button delete>> elimina por completo el tiddler. Para hacerlo pide confirmación, pero ten en cuenta que una vez confirmado, el borrado de un tiddler es irrecuperable.
