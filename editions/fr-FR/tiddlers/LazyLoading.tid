@@ -5,7 +5,7 @@ tags: Features
 title: LazyLoading
 type: text/vnd.tiddlywiki
 
-Habituellement, avec <<tw>>, le contenu complet de tous les tiddlers est intégré dans le fichier HTML principal. Le <<.def LazyLoading>> (chargement différé) fait référence à une  technique qui intègre seulement les métadonnées dans le tiddler (en d'autres termes, tous les champs hormis le champ ''text''), et demande le contenu au serveur quand il est requis.
+Habituellement, avec <<tw>>, le contenu complet de tous les tiddlers est intégré dans le fichier HTML principal. Le <<.def LazyLoading>> (chargement différé) fait référence à une technique qui intègre seulement les métadonnées dans le tiddler (en d'autres termes, tous les champs hormis le champ ''text''), et demande le contenu au serveur quand il est requis.
 
 Le //Lazy Loading// peut être utilisée dans deux configurations:
 

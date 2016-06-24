@@ -1,8 +1,8 @@
 created: 20131028132700000
 fr-title: SVG, son Utilisation
-modified: 20150622062645411
+modified: 20160624075603535
 tags: Features
-title: UsingSVG
+title: Using SVG
 type: text/vnd.tiddlywiki
 
 TiddlyWiki5 propose d'afficher les illustrations vectorielles SVG de deux façons<<:>>
@@ -19,7 +19,7 @@ Vous pouvez intégrer un tiddler image SVG en utilisant la syntaxe ordinaire de 
 {{Motovun Jack.jpg}}
 ```
 
-De même, vous pouvez faire appel aux [[blocs typés|Typed Blocks in WikiText]] pour intégrer un tiddler SVG en mode ligne.
+De même, vous pouvez faire appel aux [[blocs typés avec WikiText|Typed Blocks in WikiText]] pour intégrer un tiddler SVG en mode ligne.
 
 Toutefois, le rendu de l'image par l'élément `<img>` fait qu'elle passe par un <<.def "bac à sable">>, et ne peut pas récupérer les styles CSS du document parent, par exemple. L'image, en elle-même, ne peut pas utiliser de fonctionnalités WikiText comme la transclusion.
 

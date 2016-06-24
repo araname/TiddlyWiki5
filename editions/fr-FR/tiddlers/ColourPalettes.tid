@@ -24,7 +24,7 @@ Pour récupérer la valeur du nom d'une couleur dans la palette courante, ex<<:>
 Les tiddlers palette tiddlers contiennent les champs suivants<<:>>
 
 |!Nom |!Valeur |
-|title |Débute typiquement  par `$:/` |
+|title |Débute typiquement par `$:/` |
 |type |`application/x-tiddler-dictionary` |
 |tags |`$:/tags/Palette` |
 |description |Affichée à l'exploration de la palette |

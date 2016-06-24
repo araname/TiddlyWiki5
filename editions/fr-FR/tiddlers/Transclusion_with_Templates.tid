@@ -26,7 +26,7 @@ Salut, mon fr-titre est {{!!fr-title}}
 
 Le stype est appliqué comme attendu, mais le titre est faux<<:>> nous voulons que ``{{!!title}}`` se réfère au tiddler B, cible, et pas au tiddler A, source.
 
-La solution est dans l'utilisation d'un //gabarit//. Dans ce cas, le tiddler A, source, est appelé le [[Tiddler Gabarit|TemplateTiddlers]], et est //appliqué// au tiddler B par l'utilisation de la notation ``{{||A}}``. La différence est que toute [[Référence texte|TextReference]] qui ne se réfère pas explicitement à  un tiddler spécifique est affectée au [[tiddler courant|Current Tiddler]], qui est, le tiddler cible. En conséquence, le tiddler B a maintenant l'aspect attendu<<:>>
+La solution est dans l'utilisation d'un //gabarit//. Dans ce cas, le tiddler A, source, est appelé le [[Tiddler Gabarit|TemplateTiddlers]], et est //appliqué// au tiddler B par l'utilisation de la notation ``{{||A}}``. La différence est que toute [[Référence texte|TextReference]] qui ne se réfère pas explicitement à un tiddler spécifique est affectée au [[tiddler courant|Current Tiddler]], qui est, le tiddler cible. En conséquence, le tiddler B a maintenant l'aspect attendu<<:>>
 
 <<<
 @@background-color:yellow;
@@ -38,7 +38,7 @@ Salut, mon titre est B
 
 La Transclusion par gabarit est comparable à un masque<<:>> en supposant que le tiddler source contienne les références génériques (comme les trous des yeux dans un masque), celles-ci seront remplacées par les valeurs des tiddlers cible (comme les yeux d'une personne qui porte le masque).
 
-Un gabarit peut être appliqué à tout tiddler, pas seulement au tiddler en cours,  en utilisant la notation complète ``{{<cible>||<gabarit>}}``. La ``<cible>`` par défaut est le [[tiddler courant|Current Tiddler]] (qui a été utilisé dans l'exemple supra).
+Un gabarit peut être appliqué à tout tiddler, pas seulement au tiddler en cours, en utilisant la notation complète ``{{<cible>||<gabarit>}}``. La ``<cible>`` par défaut est le [[tiddler courant|Current Tiddler]] (qui a été utilisé dans l'exemple supra).
 
 ! Exemples
 

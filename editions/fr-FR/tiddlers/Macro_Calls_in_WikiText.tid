@@ -11,7 +11,7 @@ Par défaut, les paramètres sont passés dans l'ordre fixé lors de la définit
 
 Si aucune valeur n'est passée en paramètre, la valeur fixée lors de la définition de la macro est assignée. (Si aucune valeur n'est définie par défaut, le paramètre est tout simplement vide.)
 
-Chaque valeur de paramètre peut être passée par des `'cotes unique'`, des `"double cotes"`,  des `"""double cotes triplés"""` ou des  `[[doubles crochets]]`. Les double cotes triplés permettent de passer à peu près toutes les valeurs. Si une valeur ne contient ni espace, ni simple ou double cotes, les délimiteurs sont inutiles.
+Chaque valeur de paramètre peut être passée par des `'cotes unique'`, des `"double cotes"`, des `"""double cotes triplés"""` ou des `[[doubles crochets]]`. Les double cotes triplés permettent de passer à peu près toutes les valeurs. Si une valeur ne contient ni espace, ni simple ou double cotes, les délimiteurs sont inutiles.
 
 Une description [[description|Macro Call Syntax]] plus formelle de cette syntaxe est aussi disponible.
 

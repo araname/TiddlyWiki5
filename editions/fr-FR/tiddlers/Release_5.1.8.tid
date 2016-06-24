@@ -15,10 +15,10 @@ Cette version intègre plusieurs améliorations à la documentation de TiddlyWik
 
 * Amélioration des traductions Française, Danoise, Chinoise et Japonaise
 * [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/cb8caf6a01aeeac480bf28661888961657b0dbd8]] de la traduction Tchèque
-* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/d6918d737f5d1b663346ad9a35421a5ae0ffb9a7]]  de la traduction [[Interlingua|http://en.wikipedia.org/wiki/Interlingua]]
-* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/6721a5eb1b77935226ccc8559008af3a0a05d0cb]]  de la traduction Portugaise
+* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/d6918d737f5d1b663346ad9a35421a5ae0ffb9a7]] de la traduction [[Interlingua|http://en.wikipedia.org/wiki/Interlingua]]
+* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/6721a5eb1b77935226ccc8559008af3a0a05d0cb]] de la traduction Portugaise
 * [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/b845751d3c549366adb2f6e5c58b0114fa95ba30]] de la traduction Indou et Punjabe
-* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/49a9a2c44ca3a71fff3062709f06940aaca4a574]]  de la traduction Slovaque
+* [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/49a9a2c44ca3a71fff3062709f06940aaca4a574]] de la traduction Slovaque
 * [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/5d947ed582fb9d68c01d82a334ab75498a8724ef]] de la traduction Espagnole
 * [[Ajout|https://github.com/Jermolene/TiddlyWiki5/commit/2c367c5476da70ce9c2b37838febcdf437b9aca4]] localisation de l'invite de cryptage
 
@@ -71,7 +71,7 @@ Cette version intègre plusieurs améliorations à la documentation de TiddlyWik
 * [[Corrige|https://github.com/Jermolene/TiddlyWiki5/commit/cc85368fd48f1e5878018a4e00b6c17d436e67a9]] le [[Plugin Highlight|Highlight Plugin]] pour fonctionner pendant la génération de fichiers statiques sous Node.js
 * [[Corrige|https://github.com/Jermolene/TiddlyWiki5/commit/c296f14210545374124df5d4ae9ffb402ed73561]] un problème avec l'insensibilité à la casse sous certains systèmes (par exemple, Windows)
 * [[Ajoute|https://github.com/Jermolene/TiddlyWiki5/pull/1354]] un metada mobile aux gabarits de pages statiques
-* [[Ajoute|https://github.com/Jermolene/TiddlyWiki5/pull/1352]] un paramètre "noclean"  au RenderTiddlersCommand
+* [[Ajoute|https://github.com/Jermolene/TiddlyWiki5/pull/1352]] un paramètre "noclean" au RenderTiddlersCommand
 * [[Ajoute|https://github.com/Jermolene/TiddlyWiki5/commit/b768dc332b2d5d7ac1f731953cafb5fd1b30dad9]] les opérateurs [[editions|editions Operator]] et [[editiondescription|editiondescription Operator]] pour énumérer les éditions disponibles
 
 !! Contributeurs

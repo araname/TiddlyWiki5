@@ -11,7 +11,7 @@ Employez cette méthode, même lors d'expressions indépendantes<<:>> toujours a
 
 Il est souvent possible de simplifier une phrase sans changer sa signification, simplement en ajustant son vocabulaire ou sa structure grammaticale. <<.word "le processus de la macro est exécutée">> signifie simplement <<.word "La macro s'exécute">>. <<.word "Votre attente pourrait être ...">> signifie simplement <<.word "Vous pourriez attendre ...">>.
 
-Préférez la voix active par défaut<<:>> <<.word "Jane créé un tiddler">> plutôt que <<.word "un tiddler est créé par Jane">>. La voix passive  peut être utile si vous voulez focaliser l'attention du lecteur sur l'action elle-même ou sur son résultat<<:>> <<.word "un tiddler est créé">>. Mais il est souvent plus clair d'aller de la cause à l'effet et dire en voix active, <<.word "Cela créé un tiddler">>.
+Préférez la voix active par défaut<<:>> <<.word "Jane créé un tiddler">> plutôt que <<.word "un tiddler est créé par Jane">>. La voix passive peut être utile si vous voulez focaliser l'attention du lecteur sur l'action elle-même ou sur son résultat<<:>> <<.word "un tiddler est créé">>. Mais il est souvent plus clair d'aller de la cause à l'effet et dire en voix active, <<.word "Cela créé un tiddler">>.
 
 La documentation présente souvent deux éléments en parallèle par similarité ou par différence. Le lecteur pourra plus facilement appréhender des concepts si vous employez la même structure de phrase pour chacun. Mais c'est contrebalancé par la nécessité de rompre la monotonie.
 

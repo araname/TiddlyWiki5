@@ -15,7 +15,7 @@ Conformément au standard<<:>>
 Étant donné un numéro de version MAJOR.MINOR.PATCH. Incrémenter le :
 
 MAJOR, quand vos modifications rendent l'API incompatible,
-MINOR,  quand l'ajout des fonctionnalités respecte la compatibilité,
+MINOR, quand l'ajout des fonctionnalités respecte la compatibilité,
 PATCH, lorsque vos modifications compatibles corrigent des bogues.
 Pour les pré-versions et l'ajout de métadonnées, des extensions disponibles peuvent s'ajouter au numéro de version MAJOR.MINOR.PATCH.
 ```

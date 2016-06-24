@@ -5,7 +5,7 @@ tags: Macros [[Core Macros]]
 title: Table-of-Contents Macros
 type: text/vnd.tiddlywiki
 
-~TiddlyWiki fournit plusieurs macros permettant de générer une arborescence de liens vers des tiddlers à partir de l'analyse des  [[tags|Tagging]]<<:>>
+~TiddlyWiki fournit plusieurs macros permettant de générer une arborescence de liens vers des tiddlers à partir de l'analyse des [[tags|Tagging]]<<:>>
 
 ;<<.var toc>>
 : Un arbre simple

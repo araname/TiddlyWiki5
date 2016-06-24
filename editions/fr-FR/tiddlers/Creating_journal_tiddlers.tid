@@ -27,7 +27,7 @@ Par exemple, lors de la révision d'un tiddler appelé '' Oxford Street '', vous
 
 ! Personnalisation des tiddlers journaux
 
-Pour régler la façon dont les nouvelles entrées des journaux sont créés, rendez-vous à l'onglet  ''Fondamentaux'' sous ''Info'' dans le [[panneau de contrôle|$:/ControlPanel]]:
+Pour régler la façon dont les nouvelles entrées des journaux sont créés, rendez-vous à l'onglet ''Fondamentaux'' sous ''Info'' dans le [[panneau de contrôle|$:/ControlPanel]]:
 
 * ''Gabarit pour les titres des tiddlers journaux'' spécifie la façon dont ces tiddlers seront nommés, par une [[chaine de format date|DateFormat]]. Le réglage par défaut sur `DDth MMM YYYY` permet aux nouvelles entrées d'avoir des titres de la forme &quot;10 Octobre 2014&quot; 
 

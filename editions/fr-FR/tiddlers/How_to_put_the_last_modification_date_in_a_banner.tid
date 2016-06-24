@@ -25,4 +25,4 @@ Voici comment afficher la date de la dernière modification dans une bannière d
 </div>
 # Si nécessaire, modifier la valeur background-color à votre convenance
 # Vous pouvez aussi essayer de modifier le positionnement de la classe de `right` à `right-bottom`
-## Pour faire apparaitre la bannière dans le coins supérieur gauche vous devrez étiqueter le [[$:/tags/PageTemplate]] au lieu de  [[$:/tags/PageControls]] et changer la position de la classe à `left`
+## Pour faire apparaitre la bannière dans le coins supérieur gauche vous devrez étiqueter le [[$:/tags/PageTemplate]] au lieu de [[$:/tags/PageControls]] et changer la position de la classe à `left`

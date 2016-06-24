@@ -1,7 +1,7 @@
 caption: Permaliens
 created: 20140502213500000
 fr-title: Permaliens
-modified: 20150622112455420
+modified: 20160624074922297
 tags: Features Concepts
 title: PermaLinks
 type: text/vnd.tiddlywiki
@@ -36,7 +36,7 @@ Si le tiddler cible est absent du déroulé de la liste, il est alors automatiqu
 
 Il est aussi possible de spécifier, pour les besoins de la navigation, un déroulé filtre sans spécifier de tiddler cible<<:>>
 
-<a href="http://tiddlywiki.com/#:[tags[task]]">~http://tiddlywiki.com/#:[tags[task]]</a>
+<a href="http://tiddlywiki.com/#:[tags[task]]" rel="noopener noreferrer">~http://tiddlywiki.com/#:[tags[task]]</a>
 
 ! Concernant le codage URL
 

@@ -57,6 +57,6 @@ Dans l'onglet 'Plus' > option 'Shadows' sont listés tous les tiddlers shadows. 
 
 Par exemple, $:/core/ui/SideBar/More est le tiddler correspondant à l'onglet 'plus' du menu latéral, étiqueté par le [[Tag système|SystemTags]] `$:/tags/SideBar` de façon à apparaître dans le menu latéral. Supprimer ce tag de ce tiddler supprime le tag du menu, et lui réajouter ce tag le fera y réapparaître. 
 
-Vous pouvez suivre le même procédé pour tout tiddler du noyau définissant l'interface utilisateur et donc préfixé par $:/core/ui/. Ainsi encore, supprimer le [[Tag Système|SystemTags]] `$:/tags/ViewTemplate` du tiddler `$:/core/ui/ViewTemplate/subtitle` fera disparaître les sous-titres  de tous les tiddlers.
+Vous pouvez suivre le même procédé pour tout tiddler du noyau définissant l'interface utilisateur et donc préfixé par $:/core/ui/. Ainsi encore, supprimer le [[Tag Système|SystemTags]] `$:/tags/ViewTemplate` du tiddler `$:/core/ui/ViewTemplate/subtitle` fera disparaître les sous-titres de tous les tiddlers.
 
 Modifier un tiddler shadow de cette façon remplacera la valeur par défaut. Pour réinitialiser, il suffit de supprimer le tiddler modifié pour restaurer le tiddler shadow sous-jacent.

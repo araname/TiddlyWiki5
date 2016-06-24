@@ -23,4 +23,4 @@ Par le passé, plusieurs tiddlers avaient des titres CamelCase. C'est progressiv
 
 Les [[tiddlers d'apprentissage|Instruction Tiddlers]] ont souvent des titres long un peu plus élaborés qu'un simple groupe nominal, comme<<:>> <<.tid "Dix raisons de passer à ~TiddlyWiki">>. Ces titres suivent la règle de la phrase, où seul le premier mot (ainsi que tous noms propres) commence par une majuscule.
 
-Les tiddlers Comment<<?>> ont des titres qui débutent par <<.word "Comment ?">>, de type<<:>> <<.tid "Comment éditer un tiddler">>. Éviter les titres comme<<:>><<.tid "Tiddlers Edition">>, car un locuteur moyen pourrait ne pas l'interpréter comme le nom d'une catégorie de  tiddlers.
+Les tiddlers Comment<<?>> ont des titres qui débutent par <<.word "Comment ?">>, de type<<:>> <<.tid "Comment éditer un tiddler">>. Éviter les titres comme<<:>><<.tid "Tiddlers Edition">>, car un locuteur moyen pourrait ne pas l'interpréter comme le nom d'une catégorie de tiddlers.

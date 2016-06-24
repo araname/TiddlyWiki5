@@ -12,7 +12,7 @@ N'importe qui peut proposer des améliorations à la documentation ~TiddlyWiki p
 # Lisez et suivez le [[Manuel de style pour la documentation TiddlyWiki|Documentation Style Guide]]
 # Si vous n'en n'avez pas déjà un, créez un compte sur https://github.com
 # Sur http://tiddlywiki.com, cliquez sur le bouton "edit" du tiddler que vous souhaitez améliorer
-# Vous devriez voir un bandeau rose avec le texte suivant<<dp>>  //Pouvez-vous nous aider à améliorer cette documentation ? Voyez comment éditer ce tiddler sur ~GitHub//.
+# Vous devriez voir un bandeau rose avec le texte suivant<<dp>> //Pouvez-vous nous aider à améliorer cette documentation ? Voyez comment éditer ce tiddler sur ~GitHub//.
 # Cliquez sur le lien externe ...''ce tiddler sur ~GitHub''
 ## Une alerte va s'afficher comme quoi <<gf "you need to fork this repository to propose changes">> (<<gf "vous devez cloner ce répertoire avant de pouvoir proposer des modifications">>). Un //fork// est votre propre exemplaire du répertoire, qui intègrera les modifications que vous proposez
 # Un nouvel onglet devrait s'ouvrir sur votre navigateur, pour permettre d'éditer le tiddler sur github.com. La dernière vidéo montre le contenu attendu dans cette zone.

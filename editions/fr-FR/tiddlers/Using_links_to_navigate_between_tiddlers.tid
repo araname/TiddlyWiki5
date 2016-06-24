@@ -9,7 +9,7 @@ Vous pouvez utiliser des liens (habituellement affichés en bleu)pour naviguer d
 
 * Vous pouvez ''créer un lien'' vers un tiddler, qu'il existe déjà ou pas, dans le contenu de tout tiddler. Voir [[ Liens avec WikiTexte|Linking in WikiText]] pour consulter les différentes façons de créer simplement des liens entre tiddlers.
 
-* Chaque ''tag'' de votre tiddler (comme par exemple le tag ''Working with ~TiddlyWiki'' sous le titre de ce tiddler) contient un lien vers ce tiddler tag,  ainsi que la liste de tous les tiddlers avec ce tag. Ce qui vous permet d'ouvrir un de ces tiddlers.
+* Chaque ''tag'' de votre tiddler (comme par exemple le tag ''Working with ~TiddlyWiki'' sous le titre de ce tiddler) contient un lien vers ce tiddler tag, ainsi que la liste de tous les tiddlers avec ce tag. Ce qui vous permet d'ouvrir un de ces tiddlers.
 
 * Le ''Panneau d'information'' de chaque tiddler vous donne l'accès à 4 onglets contenant un liste additionnelle de tiddlers connexes&nbsp;:
 

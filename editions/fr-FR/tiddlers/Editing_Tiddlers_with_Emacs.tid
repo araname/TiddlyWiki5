@@ -5,7 +5,7 @@ tags: Learning
 title: Editing Tiddlers with Emacs
 type: text/vnd.tiddlywiki
 
-Michael Fogleman a rédigé un mode  [[Emacs|http://www.gnu.org/software/emacs/]] majeur appelé [[tid-mode|https://github.com/mwfogleman/tid-mode]], qui permet de modifier des fichiers TiddlyWiki .tid. C'est une variante du mode-texte qui utilise les modes mineurs org-struct et subword, et met à jour les modifications à chaque sauvegarde du fichier .tid .
+Michael Fogleman a rédigé un mode [[Emacs|http://www.gnu.org/software/emacs/]] majeur appelé [[tid-mode|https://github.com/mwfogleman/tid-mode]], qui permet de modifier des fichiers TiddlyWiki .tid. C'est une variante du mode-texte qui utilise les modes mineurs org-struct et subword, et met à jour les modifications à chaque sauvegarde du fichier .tid .
 
 Il a aussi écrit deux fonction aidant à l'utilisation de TiddlyWiki sur Emacs. La première ouvre un dossier de tiddlers dans Dired<<;>> la seconde ouvre TiddlyWiki dans le navigateur.
 
@@ -23,7 +23,7 @@ Il a aussi écrit deux fonction aidant à l'utilisation de TiddlyWiki sur Emacs.
   (browse-url "127.0.0.1:8080/"))
 ```
 
-Cette fonction ultérieure  nécessite un navigateur spécifique<<:>>
+Cette fonction ultérieure nécessite un navigateur spécifique<<:>>
 
 ```
 (setq browse-url-browser-function 'browse-url-generic

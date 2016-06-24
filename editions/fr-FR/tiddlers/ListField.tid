@@ -6,7 +6,7 @@ tags: Fields
 title: ListField
 type: text/vnd.tiddlywiki
 
-[[Champ de tiddler|TiddlerFields]], `list`  peut aider à structurer son contenu. Sa valeur est une [[liste de titres|Title List]], et peut être maniée de différentes façons<<:>>
+[[Champ de tiddler|TiddlerFields]], `list` peut aider à structurer son contenu. Sa valeur est une [[liste de titres|Title List]], et peut être maniée de différentes façons<<:>>
 
 * Le champ `list` d'un tiddler utilisé comme étiquette détermine l'ordre des tiddlers portant ce tag - voir [[ Étiqueter |Tagging]] pour plus de détails
 * Le [[filtre|Filters]] `list` sélectionne les entrées d'une liste

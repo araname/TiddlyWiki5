@@ -6,7 +6,7 @@ tags: About HelloThere
 title: History of TiddlyWiki
 type: text/vnd.tiddlywiki
 
-//Il s'agit de réflexions personnelles sur l'histoire et le développement de <<tw>>, par son créateur  JeremyRuston//.
+//Il s'agit de réflexions personnelles sur l'histoire et le développement de <<tw>>, par son créateur JeremyRuston//.
 
 <$list filter="[list[]]">
 <$link>

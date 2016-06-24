@@ -1,5 +1,5 @@
 created: 20150117152607000
-modified: 20150620212025034
+modified: 20160624074639387
 tags: $:/tags/Macro
 title: $:/editions/tw5.com/doc-macros
 type: text/vnd.tiddlywiki
@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
 \define .link(_,to) <$link to="$to$">$_$</$link>
 \define .clink(_,to) <span class="doc-clink"><<.link """$_$""" "$to$">></span>
 \define .dlink(_,to) <$macrocall $name=".link" _=<<.def "$_$">> to="$to$">/>
-\define .dlink-ex(_,to) <a href="$to$" class="tc-tiddlylink-external" target="_blank"><<.def "$_$">></a>
+\define .dlink-ex(_,to) <a href="$to$" class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer"><<.def "$_$">></a>
 \define .flink(to) <$macrocall $name=".link" _=<<.field {{$to$!!caption}}>> to="$to$"/>
 \define .mlink(_,to) <$macrocall $name=".link" _=<<.var "$_$">> to=<<.mtitle "$_$">>/>
 \define .mlink2(_,to) <$macrocall $name=".link" _=<<.var "$_$">> to="$to$"/>

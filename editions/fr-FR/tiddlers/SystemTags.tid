@@ -37,7 +37,7 @@ Liste des tags système disponibles
 * {{$:/tags/SearchResults||$:/core/ui/TagTemplate}} Créer un Gabarit pour les résultats de recherche
 * {{$:/tags/SideBar||$:/core/ui/TagTemplate}}Menu latéral +/- d'Onglets
 * {{$:/tags/Stylesheet||$:/core/ui/TagTemplate}} Ajout d'un tiddler [[feuille de style CSS|Using Stylesheets]]
-* {{$:/tags/TiddlerInfo||$:/core/ui/TagTemplate}}Tiddler <<.button "info">> +/-  Onglets
+* {{$:/tags/TiddlerInfo||$:/core/ui/TagTemplate}}Tiddler <<.button "info">> +/- Onglets
 * {{$:/tags/TiddlerInfo/Advanced||$:/core/ui/TagTemplate}}Tiddler <<.button "info">>/<<.info-tab Tools>> +/- Options 
 * {{$:/tags/TopLeftBar||$:/core/ui/TagTemplate}} +/- Menu Haut-Gauche
 * {{$:/tags/TopRightBar||$:/core/ui/TagTemplate}} +/- Menu Haut-Droit

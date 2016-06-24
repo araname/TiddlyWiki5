@@ -18,7 +18,7 @@ Vous pouvez créer des listes non ordonnées en préfixant du caractère `*`<<:>
 
 ! Listes ordonnées
 
-Les listes ordonnées utilisent `#` au lieu de  `*`:
+Les listes ordonnées utilisent `#` au lieu de `*`:
 
 <<wikitext-example src:"# Premier élément
 # Deuxième élément

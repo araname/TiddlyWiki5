@@ -16,4 +16,4 @@ Les deux façons les plus communes de modifier le tiddler courant sont<<:>>
 * le widget <<.wlink TiddlerWidget>>
 * le widget <<.wlink ListWidget>> (quand son attribut <<.attr variable>> n'a pas été modifié)
 
-Le tiddler courant n'est cependant <<.em pas>> souvent  le même que le [[tiddler en cours d'affichage ou d'édition|storyTiddler Variable]].
+Le tiddler courant n'est cependant <<.em pas>> souvent le même que le [[tiddler en cours d'affichage ou d'édition|storyTiddler Variable]].

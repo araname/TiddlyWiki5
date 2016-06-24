@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 Dans le cas de ~TiddlyWiki, Node.js permet de profiter d'un même code principal capable de tourner aussi bien dans le navigateur que sur le serveur, ce qui accroît encore sa souplesse d'utilisation.
 
-Pour les utilisateurs finaux, le mode Node.js n'est pas plus compliqué à utiliser que le mode intégré au navigateur web, mais il donne accès à des fonctions puissantes, notamment la possibilité d'exécuter  ~TiddlyWiki en tant que serveur web auquel vous pouvez vous connecter depuis d'autres appareils.
+Pour les utilisateurs finaux, le mode Node.js n'est pas plus compliqué à utiliser que le mode intégré au navigateur web, mais il donne accès à des fonctions puissantes, notamment la possibilité d'exécuter ~TiddlyWiki en tant que serveur web auquel vous pouvez vous connecter depuis d'autres appareils.
 
 Voir [[TiddlyWiki sur Node.js|TiddlyWiki on Node.js]] pour plus de détails.

@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 # Importer votre image comme tiddler (voir [[Images dans WikiText|Images in WikiText]])
 #* Vous pouvez aussi faire appel à une [[image externe|ExternalImages]]
-# Ouvrez le $:/ControlPanel et sélectionnez  ''réglage thème'' dans l'onglet ''Apparence''
+# Ouvrez le $:/ControlPanel et sélectionnez ''réglage thème'' dans l'onglet ''Apparence''
 # Choisissez votre image à partir de la liste déroulante "Page background image"
 # Réglez "Fixation de l'image de fond de page" à "Fixée à la fenêtre" pour un fond d'écran figé avec le contenu se déroulant au dessus, ou "Défile avec les tiddlers" pour le faire se déplacer (notez que les iPhone/iPad [[n'acceptent pas le réglage fixé|http://stackoverflow.com/a/20444219]] pour des raisons de performance)
 # Réglez "Taille de l'image de fond de page" comme suit<<:>>

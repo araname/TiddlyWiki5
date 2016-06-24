@@ -39,7 +39,7 @@ Pour un exemple, voir la génération de la cible ''externalimages'' dans la dem
 --rendertiddler $:/core/save/all externalimages.html text/plain
 ```
 
-!!  Sauvegardez les images en fichiers séparées
+!! Sauvegardez les images en fichiers séparées
 
 La commande `--savetiddlers` suivante peut être utilisée pour sauvegarder les images d'un wiki dans un sous-répertoire ''images''&nbsp;:
 

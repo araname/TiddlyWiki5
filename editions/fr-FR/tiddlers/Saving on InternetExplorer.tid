@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 Par défaut, <<tw>> enregistre les modifications dans InternetExplorer 10 et au-delà à l'aide d'un module d'enregistrement qui télécharge le fichier nouvellement modifié, plutôt que de l'enregistrer directement. Il existe deux autres options qui enregistrent l'une et l'autre directement les modifications dans le fichier<<dp>>
 
 * [[Utiliser l'extension TiddlyIE|Saving with TiddlyIE]]
-* Utiliser le [[hack Windows HTA|Windows HTA Hack]] en renommant le fichier <<tw>> HTML  en lui donnant l'extension `*.hta`.
+* Utiliser le [[hack Windows HTA|Windows HTA Hack]] en renommant le fichier <<tw>> HTML en lui donnant l'extension `*.hta`.
